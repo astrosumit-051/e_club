@@ -1,0 +1,2710 @@
+{
+  "AL": {
+    "funding": [
+      {
+        "name": "Innovate Alabama - LendAL Program",
+        "description": "State Small Business Credit Initiative providing loans through Collateral Support, Loan Guaranty, and Loan Participation programs",
+        "website": "https://innovatealabama.org",
+        "type": "State Loan Program",
+        "eligibility_criteria": "Alabama small businesses",
+        "application_deadline": "Ongoing",
+        "funding_amount": "$10,000 - $5,000,000",
+        "contact_info": "Innovate Alabama"
+      },
+      {
+        "name": "Innovate Alabama - InvestAL Program",
+        "description": "Equity investment program for startups and venture capital funds",
+        "website": "https://innovatealabama.org",
+        "type": "Equity Investment",
+        "eligibility_criteria": "Alabama startups and VCs, requires 1:1 private match",
+        "application_deadline": "Ongoing",
+        "funding_amount": "$5,000 - $1,000,000 for startups, $500,000 - $2,000,000 for VCs",
+        "contact_info": "Innovate Alabama"
+      },
+      {
+        "name": "Alabama Launchpad",
+        "description": "Startup competition and funding program",
+        "website": "https://alabamalaunchpad.com",
+        "type": "Competition/Grant",
+        "eligibility_criteria": "Alabama-based startups",
+        "application_deadline": "Annual competition",
+        "funding_amount": "Varies",
+        "contact_info": "Alabama Launchpad"
+      },
+      {
+        "name": "SBA Alabama District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Alabama Small Business Development Center (ASBDC)",
+        "description": "Free business consulting and technical assistance",
+        "website": "https://asbdc.org",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "ASBDC offices statewide"
+      },
+      {
+        "name": "SCORE Alabama",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "AK": {
+    "funding": [
+      {
+        "name": "Alaska Industrial Development and Export Authority (AIDEA)",
+        "description": "State financing authority providing loans and development programs",
+        "website": "https://www.aidea.org",
+        "type": "State Development Authority",
+        "eligibility_criteria": "Alaska businesses and development projects",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Varies by program",
+        "contact_info": "AIDEA offices"
+      },
+      {
+        "name": "SBA Alaska District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Alaska Small Business Development Center",
+        "description": "Free, confidential business advising, workshops, and market research",
+        "website": "https://aksbdc.org",
+        "type": "SBDC",
+        "eligibility_criteria": "Alaska small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Wasilla: 907-373-7232, Anchorage: 907-786-7201"
+      },
+      {
+        "name": "Small Business Assistance Center (SBAC)",
+        "description": "Comprehensive guidance on state/federal loan programs, marketing, export support, procurement, and regulatory compliance",
+        "website": "https://www.commerce.alaska.gov/web/ded/dev/businessassistance.aspx",
+        "type": "State Business Assistance",
+        "eligibility_criteria": "Alaska businesses",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Alaska Department of Commerce"
+      },
+      {
+        "name": "SCORE Alaska",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "AZ": {
+    "funding": [
+      {
+        "name": "SBA Arizona District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Arizona Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Arizona",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "AR": {
+    "funding": [
+      {
+        "name": "SBA Arkansas District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Arkansas Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Arkansas",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "CA": {
+    "funding": [
+      {
+        "name": "California Small Business Loan Guarantee Program",
+        "description": "State loan guarantee program for small businesses",
+        "website": "https://www.ibank.ca.gov",
+        "type": "Loan Guarantee",
+        "eligibility_criteria": "California small businesses",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Up to $2.5 million",
+        "contact_info": "California Infrastructure and Economic Development Bank"
+      },
+      {
+        "name": "SBA California District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [
+      {
+        "name": "Alchemist Accelerator",
+        "description": "Startup accelerator/incubator",
+        "website": null,
+        "type": "Accelerator/Incubator",
+        "eligibility_criteria": null,
+        "application_deadline": null,
+        "funding_amount": "They pick around 15 teams every six months for an intense three-month program. Each selected startup receives a $120,000 investment and up to $300,000 in cloud credits from AWS, Google, and Digital Ocean. The program covers everything an early-stage startup needs to succeed, from finding product-market fit and defining a target market to getting that crucial first validation. Their approach includes one-on-one mentorship, support from the cohort community, and warm introductions to industry experts and investors.",
+        "contact_info": null
+      },
+      {
+        "name": "Y Combinator",
+        "description": "World-renowned startup accelerator program",
+        "website": "https://www.ycombinator.com",
+        "type": "Accelerator",
+        "eligibility_criteria": "Early-stage startups with innovative ideas",
+        "application_deadline": "Twice yearly (check website)",
+        "funding_amount": "$500,000 for 7% equity",
+        "contact_info": "Apply through website"
+      },
+      {
+        "name": "Techstars",
+        "description": "Global startup accelerator network",
+        "website": "https://www.techstars.com",
+        "type": "Accelerator",
+        "eligibility_criteria": "Early-stage technology startups",
+        "application_deadline": "Multiple programs throughout year",
+        "funding_amount": "$120,000 for 6% equity",
+        "contact_info": "Apply through website"
+      }
+    ],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "California Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE California",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "CO": {
+    "funding": [
+      {
+        "name": "SBA Colorado District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Colorado Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Colorado",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "CT": {
+    "funding": [
+      {
+        "name": "Connecticut Small Business Boost Fund",
+        "description": "State loan program for small businesses",
+        "website": "https://portal.ct.gov/decd",
+        "type": "State Loan Program",
+        "eligibility_criteria": "Businesses with <$8M revenue and <100 employees",
+        "application_deadline": "Ongoing",
+        "funding_amount": "$5,000 - $500,000",
+        "contact_info": "Connecticut Department of Economic and Community Development"
+      },
+      {
+        "name": "Connecticut Innovations Pre-Seed Fund",
+        "description": "Early-stage funding for Connecticut startups",
+        "website": "https://ctinnovations.com",
+        "type": "Pre-Seed Investment",
+        "eligibility_criteria": "Connecticut-based early-stage companies",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Up to $150,000",
+        "contact_info": "Connecticut Innovations"
+      },
+      {
+        "name": "Manufacturing Innovation Fund",
+        "description": "State fund supporting manufacturing innovation",
+        "website": "https://ctinnovations.com",
+        "type": "Innovation Fund",
+        "eligibility_criteria": "Connecticut manufacturing companies",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Part of $75M fund",
+        "contact_info": "Connecticut Innovations"
+      },
+      {
+        "name": "SBA Connecticut District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Connecticut Small Business Development Center",
+        "description": "Free business consulting and training",
+        "website": "https://ctsbdc.com",
+        "type": "SBDC",
+        "eligibility_criteria": "Connecticut small businesses",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "CTSBDC offices statewide"
+      },
+      {
+        "name": "SCORE Connecticut",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "DE": {
+    "funding": [
+      {
+        "name": "Delaware EDGE Grant Program",
+        "description": "Competitive grants for early-stage businesses",
+        "website": "https://business.delaware.gov",
+        "type": "State Grant",
+        "eligibility_criteria": "Businesses <7 years old with <10 employees",
+        "application_deadline": "Competitive rounds",
+        "funding_amount": "$25,000 - $100,000",
+        "contact_info": "Delaware Division of Small Business"
+      },
+      {
+        "name": "Startup302 Pitch Competition",
+        "description": "Pitch competition for underrepresented founders",
+        "website": "https://startup302.com",
+        "type": "Competition",
+        "eligibility_criteria": "Underrepresented founders in Delaware",
+        "application_deadline": "Annual competition",
+        "funding_amount": "$3,000 - $25,000",
+        "contact_info": "Startup302"
+      },
+      {
+        "name": "SBA Delaware District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [
+      {
+        "name": "Delaware Technology Park",
+        "description": "Innovation hub offering lab space and resources",
+        "website": "https://delawaretechnologypark.com",
+        "type": "Technology Park",
+        "eligibility_criteria": "Technology companies",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Space rental and services",
+        "contact_info": "Delaware Technology Park"
+      },
+      {
+        "name": "Innovation Space",
+        "description": "Co-working and innovation space",
+        "website": "https://innovationspaceDE.com",
+        "type": "Innovation Space",
+        "eligibility_criteria": "Entrepreneurs and startups",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Membership fees",
+        "contact_info": "Innovation Space Delaware"
+      }
+    ],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Delaware Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Delaware",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "FL": {
+    "funding": [
+      {
+        "name": "SBA Florida District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [
+      {
+        "name": "Techstars Miami",
+        "description": "Miami branch of Techstars accelerator",
+        "website": "https://www.techstars.com/accelerators/miami",
+        "type": "Accelerator",
+        "eligibility_criteria": "Early-stage startups",
+        "application_deadline": "Annual cohorts",
+        "funding_amount": "$120,000 for 6% equity",
+        "contact_info": "Techstars Miami"
+      },
+      {
+        "name": "eMerge Americas",
+        "description": "Miami-based startup accelerator and conference",
+        "website": "https://emergeamericas.com",
+        "type": "Accelerator/Conference",
+        "eligibility_criteria": "Tech startups",
+        "application_deadline": "Annual event",
+        "funding_amount": "Varies",
+        "contact_info": "eMerge Americas"
+      }
+    ],
+    "incubators": [],
+    "startup_communities": [
+      {
+        "name": "Refresh Miami",
+        "description": "Miami tech and startup community",
+        "website": "https://refreshmiami.com",
+        "type": "Tech Community",
+        "eligibility_criteria": "Miami tech entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Community events",
+        "contact_info": "Refresh Miami"
+      }
+    ],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Florida Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Florida",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "GA": {
+    "funding": [
+      {
+        "name": "SBA Georgia District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [
+      {
+        "name": "Techstars Atlanta",
+        "description": "Atlanta branch of Techstars accelerator",
+        "website": "https://www.techstars.com/accelerators/atlanta",
+        "type": "Accelerator",
+        "eligibility_criteria": "Early-stage startups",
+        "application_deadline": "Annual cohorts",
+        "funding_amount": "$120,000 for 6% equity",
+        "contact_info": "Techstars Atlanta"
+      },
+      {
+        "name": "Atlanta Tech Village",
+        "description": "Large startup community and co-working space",
+        "website": "https://atlantatechvillage.com",
+        "type": "Startup Community",
+        "eligibility_criteria": "Tech startups",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Membership-based",
+        "contact_info": "Atlanta Tech Village"
+      }
+    ],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Georgia Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Georgia",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "HI": {
+    "funding": [
+      {
+        "name": "SBA Hawaii District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Hawaii Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Hawaii",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "ID": {
+    "funding": [
+      {
+        "name": "Idaho Revolving Loan Fund",
+        "description": "State-backed loan program for Idaho businesses",
+        "website": "https://commerce.idaho.gov",
+        "type": "State Loan Program",
+        "eligibility_criteria": "Idaho businesses",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Varies",
+        "contact_info": "Idaho Department of Commerce"
+      },
+      {
+        "name": "Idaho Microloan Program",
+        "description": "Small loans for Idaho startups and small businesses",
+        "website": "https://commerce.idaho.gov",
+        "type": "Microloan Program",
+        "eligibility_criteria": "Idaho small businesses",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Small loans",
+        "contact_info": "Idaho Department of Commerce"
+      },
+      {
+        "name": "SBA Idaho District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [
+      {
+        "name": "Trailhead Boise",
+        "description": "Startup community and co-working space",
+        "website": "https://trailheadboise.org",
+        "type": "Startup Community",
+        "eligibility_criteria": "Entrepreneurs and startups",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Membership fees",
+        "contact_info": "Trailhead Boise"
+      }
+    ],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Idaho Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Idaho",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "IL": {
+    "funding": [
+      {
+        "name": "CIBC Bank USA Entrepreneur Loan Program",
+        "description": "Loan program for BACP certificate graduates",
+        "website": "https://us.cibc.com",
+        "type": "Bank Loan Program",
+        "eligibility_criteria": "BACP Entrepreneur Certificate graduates",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Varies",
+        "contact_info": "CIBC Bank USA"
+      },
+      {
+        "name": "SBA Illinois District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Chicago BACP Entrepreneur Certificate Program",
+        "description": "Free entrepreneur certification program",
+        "website": "https://chicago.gov/BACPWebinars",
+        "type": "Certificate Program",
+        "eligibility_criteria": "Chicago entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free program",
+        "contact_info": "Chicago Department of Business Affairs and Consumer Protection"
+      },
+      {
+        "name": "UIC Institute for Entrepreneurial Studies",
+        "description": "University entrepreneurship program and BS degree",
+        "website": "https://business.uic.edu/entrepreneurship",
+        "type": "University Program",
+        "eligibility_criteria": "UIC students and community",
+        "application_deadline": "Academic calendar",
+        "funding_amount": "Tuition-based",
+        "contact_info": "University of Illinois Chicago"
+      },
+      {
+        "name": "DePaul Coleman Entrepreneurship Center",
+        "description": "University entrepreneurship center with academic and practical training",
+        "website": "https://business.depaul.edu/centers-and-institutes/coleman-entrepreneurship-center",
+        "type": "University Center",
+        "eligibility_criteria": "DePaul students and community",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various programs",
+        "contact_info": "DePaul University"
+      },
+      {
+        "name": "Illinois Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Illinois",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "IN": {
+    "funding": [
+      {
+        "name": "SBA Indiana District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Indiana Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Indiana",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "IA": {
+    "funding": [
+      {
+        "name": "SBA Iowa District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Iowa Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Iowa",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "KS": {
+    "funding": [
+      {
+        "name": "SBA Kansas District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Kansas Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Kansas",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "KY": {
+    "funding": [
+      {
+        "name": "KY Innovation SBIR-STTR Matching Funds",
+        "description": "State matching funds for federal SBIR/STTR awards",
+        "website": "https://kyinnovation.com",
+        "type": "Matching Fund",
+        "eligibility_criteria": "Kentucky companies with SBIR/STTR awards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Matches federal awards",
+        "contact_info": "KY Innovation"
+      },
+      {
+        "name": "Commonwealth Seed Capital",
+        "description": "Early-stage funding for high-tech startups",
+        "website": "https://kyinnovation.com",
+        "type": "Seed Capital",
+        "eligibility_criteria": "Kentucky high-tech startups",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Varies",
+        "contact_info": "KY Innovation"
+      },
+      {
+        "name": "Kentucky Angel Investment Tax Credit",
+        "description": "Tax credit for angel investors",
+        "website": "https://ced.ky.gov",
+        "type": "Tax Credit",
+        "eligibility_criteria": "Qualified angel investors",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Tax credit incentive",
+        "contact_info": "Kentucky Cabinet for Economic Development"
+      },
+      {
+        "name": "SBA Kentucky District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Kentucky Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Kentucky",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "LA": {
+    "funding": [
+      {
+        "name": "Louisiana Digital Interactive Media Tax Credit",
+        "description": "Tax credit for digital media companies",
+        "website": "https://opportunitylouisiana.gov",
+        "type": "Tax Credit",
+        "eligibility_criteria": "Digital media companies in Louisiana",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Tax credit incentive",
+        "contact_info": "Louisiana Economic Development"
+      },
+      {
+        "name": "SBA Louisiana District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [
+      {
+        "name": "Nexus Louisiana Ignition Accelerator",
+        "description": "Startup accelerator program",
+        "website": "https://nexusla.org",
+        "type": "Accelerator",
+        "eligibility_criteria": "Louisiana startups",
+        "application_deadline": "Cohort-based",
+        "funding_amount": "Varies",
+        "contact_info": "Nexus Louisiana"
+      }
+    ],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Louisiana Small Business Development Center",
+        "description": "No-cost business consultations, training, and guides",
+        "website": "https://lsbdc.org",
+        "type": "SBDC",
+        "eligibility_criteria": "Louisiana small businesses",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "LSBDC offices statewide"
+      },
+      {
+        "name": "SCORE Louisiana",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "ME": {
+    "funding": [
+      {
+        "name": "SBA Maine District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Maine Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Maine",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "MD": {
+    "funding": [
+      {
+        "name": "SBA Maryland District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Maryland Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Maryland",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "MA": {
+    "funding": [
+      {
+        "name": "SBA Massachusetts District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [
+      {
+        "name": "MassChallenge",
+        "description": "Zero-equity startup accelerator",
+        "website": "https://masschallenge.org",
+        "type": "Accelerator",
+        "eligibility_criteria": "High-impact startups",
+        "application_deadline": "Multiple deadlines per year",
+        "funding_amount": "Up to $100,000 (no equity taken)",
+        "contact_info": "Apply through website"
+      }
+    ],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Massachusetts Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Massachusetts",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "MI": {
+    "funding": [
+      {
+        "name": "SBA Michigan District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Michigan Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Michigan",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "MN": {
+    "funding": [
+      {
+        "name": "Minnesota Angel Tax Credit",
+        "description": "Tax credit for angel investors in Minnesota startups",
+        "website": "https://mn.gov/deed",
+        "type": "Tax Credit",
+        "eligibility_criteria": "Qualified angel investors",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Tax credit incentive",
+        "contact_info": "Minnesota Department of Employment and Economic Development"
+      },
+      {
+        "name": "SBA Minnesota District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [
+      {
+        "name": "Launch Minnesota",
+        "description": "State initiative supporting startup ecosystem",
+        "website": "https://launchminnesota.org",
+        "type": "State Initiative",
+        "eligibility_criteria": "Minnesota startups",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various programs",
+        "contact_info": "Launch Minnesota"
+      },
+      {
+        "name": "BETA.MN",
+        "description": "Nonprofit supporting Twin Cities startup community",
+        "website": "https://beta.mn",
+        "type": "Nonprofit Organization",
+        "eligibility_criteria": "Twin Cities entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Community programs",
+        "contact_info": "BETA.MN"
+      }
+    ],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Minnesota Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Minnesota",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "MS": {
+    "funding": [
+      {
+        "name": "SBA Mississippi District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Mississippi Small Business Development Center Network",
+        "description": "Confidential counseling, business planning, training, and disaster readiness",
+        "website": "https://mssbdc.org",
+        "type": "SBDC Network",
+        "eligibility_criteria": "Mississippi small businesses",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "MS-SBDC offices statewide"
+      },
+      {
+        "name": "SCORE Mississippi",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "MO": {
+    "funding": [
+      {
+        "name": "Arch Grants",
+        "description": "Equity-free grants for startups relocating to St. Louis",
+        "website": "https://archgrants.org",
+        "type": "Equity-Free Grant",
+        "eligibility_criteria": "Startups willing to relocate to St. Louis",
+        "application_deadline": "Annual competition",
+        "funding_amount": "$50,000 equity-free",
+        "contact_info": "Arch Grants"
+      },
+      {
+        "name": "LaunchKC",
+        "description": "Grant program for Kansas City startups",
+        "website": "https://launchkc.org",
+        "type": "Grant Program",
+        "eligibility_criteria": "Kansas City area startups",
+        "application_deadline": "Annual competition",
+        "funding_amount": "Up to $50,000",
+        "contact_info": "LaunchKC"
+      },
+      {
+        "name": "Digital Sandbox KC",
+        "description": "Project funding for Kansas City tech startups",
+        "website": "https://digitalsandboxkc.com",
+        "type": "Project Funding",
+        "eligibility_criteria": "Kansas City tech startups",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Project-based funding",
+        "contact_info": "Digital Sandbox KC"
+      },
+      {
+        "name": "SBA Missouri District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [
+      {
+        "name": "Cortex Innovation Community",
+        "description": "Innovation district and startup community in St. Louis",
+        "website": "https://cortexstl.com",
+        "type": "Innovation District",
+        "eligibility_criteria": "Tech and bioscience companies",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Space and services",
+        "contact_info": "Cortex"
+      },
+      {
+        "name": "BioGenerator",
+        "description": "Life sciences startup accelerator in St. Louis",
+        "website": "https://biogenerator.org",
+        "type": "Life Sciences Accelerator",
+        "eligibility_criteria": "Life sciences startups",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Investment and services",
+        "contact_info": "BioGenerator"
+      }
+    ],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Missouri Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Missouri",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "MT": {
+    "funding": [
+      {
+        "name": "SBA Montana District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Montana Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Montana",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "NE": {
+    "funding": [
+      {
+        "name": "SBA Nebraska District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Nebraska Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Nebraska",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "NV": {
+    "funding": [
+      {
+        "name": "SBA Nevada District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      },
+      {
+        "name": "AngelNV",
+        "description": "Nevada angel investor network",
+        "website": "https://angelnv.org",
+        "type": "Angel Network",
+        "eligibility_criteria": "Nevada startups seeking angel investment",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Varies by investor",
+        "contact_info": "AngelNV"
+      },
+      {
+        "name": "FundNV",
+        "description": "Nevada venture capital fund",
+        "website": "https://fundnv.com",
+        "type": "Venture Capital",
+        "eligibility_criteria": "Nevada-based startups",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Varies",
+        "contact_info": "FundNV"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [
+      {
+        "name": "StartUpNV",
+        "description": "Nevada's premier startup organization facilitating over $77M in funding",
+        "website": "https://startupnv.org",
+        "type": "Startup Organization",
+        "eligibility_criteria": "Nevada startups and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Facilitates funding connections",
+        "contact_info": "StartUpNV"
+      },
+      {
+        "name": "StartUp Vegas",
+        "description": "Las Vegas startup community focusing on hospitality and gaming tech",
+        "website": "https://startupvegas.com",
+        "type": "Local Startup Community",
+        "eligibility_criteria": "Las Vegas area entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Community support",
+        "contact_info": "StartUp Vegas"
+      }
+    ],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Nevada Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Nevada",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "NH": {
+    "funding": [
+      {
+        "name": "SBA New Hampshire District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [
+      {
+        "name": "Hannah Grimes Center",
+        "description": "Business incubator and entrepreneurship center",
+        "website": "https://hannahgrimes.com",
+        "type": "Business Incubator",
+        "eligibility_criteria": "New Hampshire entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Incubation services",
+        "contact_info": "Hannah Grimes Center"
+      },
+      {
+        "name": "Dartmouth Regional Technology Center",
+        "description": "Technology incubator and co-working space",
+        "website": "https://dartmouthrtc.com",
+        "type": "Technology Incubator",
+        "eligibility_criteria": "Technology startups",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Space and services",
+        "contact_info": "Dartmouth Regional Technology Center"
+      }
+    ],
+    "startup_communities": [
+      {
+        "name": "NH Tech Alliance",
+        "description": "Technology community providing mentorship and networking",
+        "website": "https://nhtechalliance.org",
+        "type": "Tech Community",
+        "eligibility_criteria": "New Hampshire tech entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Membership-based services",
+        "contact_info": "NH Tech Alliance"
+      }
+    ],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "New Hampshire Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE New Hampshire",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "NJ": {
+    "funding": [
+      {
+        "name": "SBA New Jersey District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [
+      {
+        "name": "The accelerator",
+        "description": "Startup accelerator/incubator",
+        "website": null,
+        "type": "Accelerator/Incubator",
+        "eligibility_criteria": null,
+        "application_deadline": null,
+        "funding_amount": "Since its inception in 2009, MassChallenge has supported over 3,000 startups, with notable portfolio companies including Ginkgo Bioworks, Ginger, and Thinx. Unique to MassChallenge is their zero-equity model, which operates through competition-based programs where founders and alumni can vie for cash prizes rather than receiving direct equity investments.",
+        "contact_info": null
+      }
+    ],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "New Jersey Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE New Jersey",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "NM": {
+    "funding": [
+      {
+        "name": "SBA New Mexico District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "New Mexico Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE New Mexico",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "NY": {
+    "funding": [
+      {
+        "name": "New York State Innovation Venture Capital Fund",
+        "description": "State venture capital fund for innovative startups",
+        "website": "https://esd.ny.gov",
+        "type": "Venture Capital",
+        "eligibility_criteria": "New York-based innovative startups",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Varies",
+        "contact_info": "Empire State Development"
+      },
+      {
+        "name": "SBA New York District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [
+      {
+        "name": "Techstars NYC",
+        "description": "New York City branch of Techstars accelerator",
+        "website": "https://www.techstars.com/accelerators/nyc",
+        "type": "Accelerator",
+        "eligibility_criteria": "Early-stage technology startups",
+        "application_deadline": "Check website for current cohort",
+        "funding_amount": "$120,000 for 6% equity",
+        "contact_info": "Apply through Techstars website"
+      }
+    ],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "New York Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE New York",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "NC": {
+    "funding": [
+      {
+        "name": "SBA North Carolina District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [
+      {
+        "name": "American Underground",
+        "description": "Startup campus and accelerator in Durham",
+        "website": "https://americanunderground.com",
+        "type": "Startup Campus",
+        "eligibility_criteria": "Early-stage startups",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Space and programming",
+        "contact_info": "American Underground"
+      }
+    ],
+    "incubators": [],
+    "startup_communities": [
+      {
+        "name": "Research Triangle Park",
+        "description": "One of the largest research parks in the world",
+        "website": "https://rtp.org",
+        "type": "Research Park",
+        "eligibility_criteria": "Technology and research companies",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Space and services",
+        "contact_info": "Research Triangle Park"
+      },
+      {
+        "name": "Council for Entrepreneurial Development",
+        "description": "North Carolina's largest entrepreneurship organization",
+        "website": "https://cednc.org",
+        "type": "Entrepreneurship Organization",
+        "eligibility_criteria": "North Carolina entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Programs and services",
+        "contact_info": "CED"
+      }
+    ],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "North Carolina Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE North Carolina",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "ND": {
+    "funding": [
+      {
+        "name": "SBA North Dakota District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "North Dakota Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE North Dakota",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "OH": {
+    "funding": [
+      {
+        "name": "SBA Ohio District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      },
+      {
+        "name": "Ohio Third Frontier",
+        "description": "State technology and innovation initiative",
+        "website": "https://development.ohio.gov/business/third-frontier",
+        "type": "State Innovation Program",
+        "eligibility_criteria": "Ohio technology companies",
+        "application_deadline": "Various programs",
+        "funding_amount": "Varies by program",
+        "contact_info": "Ohio Development Services Agency"
+      },
+      {
+        "name": "JumpStart",
+        "description": "Cleveland-based venture development organization",
+        "website": "https://jumpstartinc.org",
+        "type": "Venture Development",
+        "eligibility_criteria": "Ohio startups",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Investment and services",
+        "contact_info": "JumpStart Inc."
+      }
+    ],
+    "accelerators": [
+      {
+        "name": "Techstars Columbus",
+        "description": "Columbus branch of Techstars accelerator",
+        "website": "https://www.techstars.com/accelerators/columbus",
+        "type": "Accelerator",
+        "eligibility_criteria": "Early-stage startups",
+        "application_deadline": "Annual cohorts",
+        "funding_amount": "$120,000 for 6% equity",
+        "contact_info": "Techstars Columbus"
+      }
+    ],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Ohio Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Ohio",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "OK": {
+    "funding": [
+      {
+        "name": "SBA Oklahoma District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Oklahoma Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Oklahoma",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "OR": {
+    "funding": [
+      {
+        "name": "SBA Oregon District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [
+      {
+        "name": "Oregon Story Board",
+        "description": "Portland-based startup accelerator",
+        "website": "https://oregonstoryboard.org",
+        "type": "Accelerator",
+        "eligibility_criteria": "Oregon startups",
+        "application_deadline": "Cohort-based",
+        "funding_amount": "Investment and mentorship",
+        "contact_info": "Oregon Story Board"
+      }
+    ],
+    "incubators": [],
+    "startup_communities": [
+      {
+        "name": "Portland Startup Community",
+        "description": "Vibrant startup ecosystem in Portland",
+        "website": "https://pdxstartups.com",
+        "type": "Startup Community",
+        "eligibility_criteria": "Portland area entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Community support",
+        "contact_info": "Portland Startup Community"
+      }
+    ],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Oregon Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Oregon",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "PA": {
+    "funding": [
+      {
+        "name": "SBA Pennsylvania District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [
+      {
+        "name": "based startup accelerator",
+        "description": "Startup accelerator/incubator",
+        "website": null,
+        "type": "Accelerator/Incubator",
+        "eligibility_criteria": null,
+        "application_deadline": null,
+        "funding_amount": "Innovation Works provides funding of $100,000 to $150,000 in the form of a convertible note tailored to meet startups' specific commercialisation plans, funding requirements, and runway needs.",
+        "contact_info": null
+      }
+    ],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Pennsylvania Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Pennsylvania",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "RI": {
+    "funding": [
+      {
+        "name": "SBA Rhode Island District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Rhode Island Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Rhode Island",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "SC": {
+    "funding": [
+      {
+        "name": "SBA South Carolina District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "South Carolina Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE South Carolina",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "SD": {
+    "funding": [
+      {
+        "name": "SBA South Dakota District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "South Dakota Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE South Dakota",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "TN": {
+    "funding": [
+      {
+        "name": "SBA Tennessee District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Tennessee Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Tennessee",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "TX": {
+    "funding": [
+      {
+        "name": "SBA Texas District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [
+      {
+        "name": "Techstars Austin",
+        "description": "Austin branch of Techstars accelerator",
+        "website": "https://www.techstars.com/accelerators/austin",
+        "type": "Accelerator",
+        "eligibility_criteria": "Early-stage technology startups",
+        "application_deadline": "Check website for current cohort",
+        "funding_amount": "$120,000 for 6% equity",
+        "contact_info": "Apply through Techstars website"
+      }
+    ],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Texas Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Texas",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "UT": {
+    "funding": [
+      {
+        "name": "SBA Utah District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [
+      {
+        "name": "Techstars Utah",
+        "description": "Utah branch of Techstars accelerator",
+        "website": "https://www.techstars.com/accelerators/utah",
+        "type": "Accelerator",
+        "eligibility_criteria": "Early-stage startups",
+        "application_deadline": "Annual cohorts",
+        "funding_amount": "$120,000 for 6% equity",
+        "contact_info": "Techstars Utah"
+      }
+    ],
+    "incubators": [],
+    "startup_communities": [
+      {
+        "name": "Silicon Slopes",
+        "description": "Utah's premier tech and startup community",
+        "website": "https://siliconslopes.com",
+        "type": "Tech Community",
+        "eligibility_criteria": "Utah tech entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Community programs",
+        "contact_info": "Silicon Slopes"
+      }
+    ],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Utah Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Utah",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "VT": {
+    "funding": [
+      {
+        "name": "SBA Vermont District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Vermont Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Vermont",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "VA": {
+    "funding": [
+      {
+        "name": "SBA Virginia District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [
+      {
+        "name": "1776",
+        "description": "Global startup accelerator with Virginia presence",
+        "website": "https://1776.vc",
+        "type": "Accelerator",
+        "eligibility_criteria": "Startups in regulated industries",
+        "application_deadline": "Cohort-based",
+        "funding_amount": "Investment and services",
+        "contact_info": "1776"
+      }
+    ],
+    "incubators": [],
+    "startup_communities": [
+      {
+        "name": "Virginia Innovation Partnership Corporation (VIPC)",
+        "description": "State-designated nonprofit driving innovation and entrepreneurship",
+        "website": "https://vipc.org",
+        "type": "State Innovation Organization",
+        "eligibility_criteria": "Virginia entrepreneurs and startups",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various programs",
+        "contact_info": "VIPC"
+      }
+    ],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Virginia Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Virginia",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "WA": {
+    "funding": [
+      {
+        "name": "SBA Washington District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [
+      {
+        "name": "Techstars Seattle",
+        "description": "Seattle branch of Techstars accelerator",
+        "website": "https://www.techstars.com/accelerators/seattle",
+        "type": "Accelerator",
+        "eligibility_criteria": "Early-stage startups",
+        "application_deadline": "Annual cohorts",
+        "funding_amount": "$120,000 for 6% equity",
+        "contact_info": "Techstars Seattle"
+      }
+    ],
+    "incubators": [],
+    "startup_communities": [
+      {
+        "name": "Seattle Angel Conference",
+        "description": "Angel investor network in Seattle",
+        "website": "https://seattleangelconference.com",
+        "type": "Angel Network",
+        "eligibility_criteria": "Pacific Northwest startups",
+        "application_deadline": "Quarterly events",
+        "funding_amount": "Angel investment",
+        "contact_info": "Seattle Angel Conference"
+      }
+    ],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Washington Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Washington",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "WV": {
+    "funding": [
+      {
+        "name": "SBA West Virginia District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "West Virginia Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE West Virginia",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "WI": {
+    "funding": [
+      {
+        "name": "SBA Wisconsin District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Wisconsin Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Wisconsin",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  },
+  "WY": {
+    "funding": [
+      {
+        "name": "SBA Wyoming District Office",
+        "description": "Federal small business loans, grants, and assistance programs",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBA District Office",
+        "eligibility_criteria": "Small businesses meeting SBA size standards",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Various loan and grant programs",
+        "contact_info": "Find local SBA office via website"
+      }
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "startup_communities": [],
+    "legal_resources": [],
+    "educational_programs": [
+      {
+        "name": "Wyoming Small Business Development Center",
+        "description": "Free business consulting, training, and technical assistance",
+        "website": "https://www.sba.gov/local-assistance/find",
+        "type": "SBDC",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SBDC office via SBA website"
+      },
+      {
+        "name": "SCORE Wyoming",
+        "description": "Free business mentoring and workshops",
+        "website": "https://www.score.org",
+        "type": "SCORE",
+        "eligibility_criteria": "Small businesses and entrepreneurs",
+        "application_deadline": "Ongoing",
+        "funding_amount": "Free services",
+        "contact_info": "Find local SCORE chapter via website"
+      }
+    ]
+  }
+}

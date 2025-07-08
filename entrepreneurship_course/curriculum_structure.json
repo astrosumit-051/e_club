@@ -1,0 +1,768 @@
+{
+  "course_metadata": {
+    "title": "World-Class Entrepreneurship Bootcamp: Problem-Solution Innovation Framework",
+    "duration": "6 weeks",
+    "weekly_commitment": "6-8 hours",
+    "target_audience": "College students globally",
+    "learning_philosophy": "Problem-Solution Innovation Framework (PSIF)",
+    "course_objectives": [
+      "Master the Problem-Solution Innovation Framework for systematic venture creation",
+      "Develop critical thinking and creative problem-solving skills",
+      "Gain hands-on experience with AI tools for entrepreneurship",
+      "Build actionable startup ideas or career development plans",
+      "Create a network of entrepreneurial peers and mentors",
+      "Develop presentation and pitching skills"
+    ],
+    "gamification_overview": {
+      "point_system": "Students earn Innovation Points (IP) for completing activities",
+      "badges": "Achievement badges for milestones and skill mastery",
+      "leaderboards": "Weekly and overall rankings to foster healthy competition",
+      "team_challenges": "Collaborative quests and problem-solving missions",
+      "final_competition": "Pitch competition with prizes and recognition"
+    }
+  },
+  "weekly_modules": [
+    {
+      "week": 1,
+      "title": "Foundation & Problem Discovery",
+      "theme": "Clarify - Understanding the Problem Landscape",
+      "learning_objectives": [
+        "Understand the Problem-Solution Innovation Framework fundamentals",
+        "Master problem identification and validation techniques",
+        "Learn to use the Problem Statement Canvas",
+        "Develop empathic design thinking skills",
+        "Analyze successful startup case studies through problem lens"
+      ],
+      "content_breakdown": {
+        "videos": {
+          "duration_hours": 2,
+          "topics": [
+            "Introduction to PSIF and entrepreneurial mindset (30 min)",
+            "The Problem Statement Canvas deep dive (45 min)",
+            "Case Study: Warby Parker - Identifying the eyewear problem (30 min)",
+            "Empathic Design Cycle methodology (35 min)"
+          ]
+        },
+        "readings": {
+          "duration_hours": 1.5,
+          "materials": [
+            "Problem-Solution Innovation Framework whitepaper",
+            "Bill Aulet's Disciplined Entrepreneurship - Chapter 1-3",
+            "Warby Parker founding story and problem analysis",
+            "Design Thinking methodology guide"
+          ]
+        },
+        "hands_on_activities": {
+          "duration_hours": 3,
+          "activities": [
+            {
+              "name": "Problem Hunting Exercise",
+              "duration": "90 min",
+              "description": "Students identify 10 problems in their daily lives using structured observation",
+              "ai_tools": ["ChatGPT for problem categorization", "Notion AI for documentation"],
+              "deliverable": "Problem inventory with impact assessment"
+            },
+            {
+              "name": "Problem Statement Canvas Workshop",
+              "duration": "90 min",
+              "description": "Create detailed problem statements for top 3 identified problems",
+              "ai_tools": ["Miro AI for canvas creation", "Grammarly for statement refinement"],
+              "deliverable": "Three completed Problem Statement Canvases"
+            }
+          ]
+        },
+        "peer_collaboration": {
+          "duration_hours": 1,
+          "activities": [
+            "Problem sharing circles (30 min)",
+            "Peer feedback on Problem Statement Canvases (30 min)"
+          ]
+        },
+        "ai_tool_integration": [
+          {
+            "tool": "ChatGPT/Claude",
+            "purpose": "Problem analysis and categorization",
+            "training": "Prompt engineering for problem discovery"
+          },
+          {
+            "tool": "Notion AI",
+            "purpose": "Research documentation and organization",
+            "training": "Building entrepreneurial knowledge bases"
+          },
+          {
+            "tool": "Miro AI",
+            "purpose": "Visual problem mapping and canvas creation",
+            "training": "Collaborative visual thinking"
+          }
+        ],
+        "gamification_elements": {
+          "points_available": 100,
+          "badges": ["Problem Hunter", "Canvas Master", "Empathy Expert"],
+          "team_challenge": "Global Problem Mapping - teams identify problems across different cultures",
+          "leaderboard_criteria": "Quality and quantity of problems identified"
+        },
+        "assessment": {
+          "formative": [
+            "Problem inventory peer review (25 points)",
+            "Canvas completion and quality (50 points)"
+          ],
+          "summative": [
+            "Week 1 reflection essay on problem-solution mindset (25 points)"
+          ]
+        }
+      },
+      "case_studies": [
+        {
+          "company": "Warby Parker",
+          "focus": "Identifying the eyewear accessibility problem",
+          "analysis_framework": "Problem Statement Canvas application"
+        }
+      ],
+      "weekly_deliverables": [
+        "Personal problem inventory (10 problems minimum)",
+        "Three Problem Statement Canvases",
+        "Reflection essay on entrepreneurial problem-solving mindset"
+      ]
+    },
+    {
+      "week": 2,
+      "title": "Ideation & Solution Design",
+      "theme": "Ideate - Creative Solution Generation",
+      "learning_objectives": [
+        "Master creative ideation techniques and brainstorming methods",
+        "Learn to evaluate and prioritize solution concepts",
+        "Understand adaptive vs. innovative solution approaches",
+        "Develop rapid prototyping skills",
+        "Apply AI tools for creative solution generation"
+      ],
+      "content_breakdown": {
+        "videos": {
+          "duration_hours": 2,
+          "topics": [
+            "Creative problem-solving methodologies (45 min)",
+            "Adaptive vs. Innovative solutions framework (30 min)",
+            "Case Study: Notion - Reimagining productivity tools (45 min)",
+            "Rapid prototyping techniques (30 min)"
+          ]
+        },
+        "readings": {
+          "duration_hours": 1.5,
+          "materials": [
+            "Creative Problem-Solving in Entrepreneurship guide",
+            "IDEO Design Thinking methodology",
+            "Notion's product evolution and innovation story",
+            "Lean Startup prototyping principles"
+          ]
+        },
+        "hands_on_activities": {
+          "duration_hours": 3.5,
+          "activities": [
+            {
+              "name": "Solution Brainstorming Marathon",
+              "duration": "120 min",
+              "description": "Generate 50+ solution ideas for selected problems using various techniques",
+              "ai_tools": ["ChatGPT for idea generation", "Midjourney for visual concepts", "Figma AI for wireframing"],
+              "deliverable": "Comprehensive solution idea bank"
+            },
+            {
+              "name": "Rapid Prototype Creation",
+              "duration": "90 min",
+              "description": "Build low-fidelity prototypes for top 3 solution concepts",
+              "ai_tools": ["Figma AI", "Canva AI", "No-code platforms like Bubble"],
+              "deliverable": "Three working prototypes"
+            }
+          ]
+        },
+        "peer_collaboration": {
+          "duration_hours": 1,
+          "activities": [
+            "Cross-team ideation sessions (30 min)",
+            "Prototype testing and feedback (30 min)"
+          ]
+        },
+        "ai_tool_integration": [
+          {
+            "tool": "Midjourney/DALL-E",
+            "purpose": "Visual concept generation and mood boarding",
+            "training": "AI-assisted creative visualization"
+          },
+          {
+            "tool": "Figma AI",
+            "purpose": "Rapid wireframing and UI prototyping",
+            "training": "No-code design automation"
+          },
+          {
+            "tool": "Bubble/Webflow",
+            "purpose": "Functional prototype development",
+            "training": "No-code application building"
+          }
+        ],
+        "gamification_elements": {
+          "points_available": 120,
+          "badges": ["Idea Machine", "Prototype Pro", "Innovation Catalyst"],
+          "team_challenge": "Solution Remix - teams build on each other's ideas",
+          "leaderboard_criteria": "Creativity and feasibility of solutions"
+        },
+        "assessment": {
+          "formative": [
+            "Idea generation quantity and quality (40 points)",
+            "Prototype functionality and design (60 points)"
+          ],
+          "summative": [
+            "Solution evaluation matrix and rationale (20 points)"
+          ]
+        }
+      },
+      "case_studies": [
+        {
+          "company": "Notion",
+          "focus": "Reimagining productivity through innovative solution design",
+          "analysis_framework": "Adaptive vs. Innovative solution evaluation"
+        }
+      ],
+      "weekly_deliverables": [
+        "Solution idea bank (50+ concepts)",
+        "Three functional prototypes",
+        "Solution evaluation matrix with top concept selection"
+      ]
+    },
+    {
+      "week": 3,
+      "title": "Market Validation & Business Model",
+      "theme": "Develop - Building Viable Solutions",
+      "learning_objectives": [
+        "Master customer discovery and validation techniques",
+        "Learn to design and test value propositions",
+        "Understand business model frameworks and revenue streams",
+        "Develop market sizing and competitive analysis skills",
+        "Apply AI tools for market research and analysis"
+      ],
+      "content_breakdown": {
+        "videos": {
+          "duration_hours": 2,
+          "topics": [
+            "Customer discovery methodology and interview techniques (45 min)",
+            "Value Proposition Canvas and Business Model Canvas (45 min)",
+            "Case Study: Chobani - Market validation and positioning (30 min)",
+            "Competitive analysis and market sizing (30 min)"
+          ]
+        },
+        "readings": {
+          "duration_hours": 1.5,
+          "materials": [
+            "Steve Blank's Customer Development methodology",
+            "Alexander Osterwalder's Business Model Generation",
+            "Chobani's market entry and validation strategy",
+            "Lean Startup validation techniques"
+          ]
+        },
+        "hands_on_activities": {
+          "duration_hours": 3.5,
+          "activities": [
+            {
+              "name": "Customer Discovery Interviews",
+              "duration": "150 min",
+              "description": "Conduct 10+ customer interviews to validate problem-solution fit",
+              "ai_tools": ["Otter.ai for transcription", "ChatGPT for interview analysis", "Typeform AI for survey creation"],
+              "deliverable": "Customer discovery report with insights"
+            },
+            {
+              "name": "Business Model Canvas Creation",
+              "duration": "60 min",
+              "description": "Design comprehensive business model for validated solution",
+              "ai_tools": ["Miro AI for canvas creation", "ChatGPT for revenue model brainstorming"],
+              "deliverable": "Complete Business Model Canvas"
+            }
+          ]
+        },
+        "peer_collaboration": {
+          "duration_hours": 1,
+          "activities": [
+            "Customer interview practice sessions (30 min)",
+            "Business model peer review and feedback (30 min)"
+          ]
+        },
+        "ai_tool_integration": [
+          {
+            "tool": "Otter.ai/Rev.ai",
+            "purpose": "Interview transcription and analysis",
+            "training": "AI-powered qualitative research"
+          },
+          {
+            "tool": "Typeform AI",
+            "purpose": "Survey creation and data collection",
+            "training": "Automated market research"
+          },
+          {
+            "tool": "Perplexity AI",
+            "purpose": "Market research and competitive analysis",
+            "training": "AI-assisted business intelligence"
+          }
+        ],
+        "gamification_elements": {
+          "points_available": 130,
+          "badges": ["Customer Whisperer", "Model Master", "Market Detective"],
+          "team_challenge": "Market Validation Race - teams compete on interview quality and insights",
+          "leaderboard_criteria": "Customer interview quality and business model viability"
+        },
+        "assessment": {
+          "formative": [
+            "Customer interview quality and insights (70 points)",
+            "Business Model Canvas completeness (40 points)"
+          ],
+          "summative": [
+            "Market validation summary and pivot recommendations (20 points)"
+          ]
+        }
+      },
+      "case_studies": [
+        {
+          "company": "Chobani",
+          "focus": "Market validation and positioning in competitive food industry",
+          "analysis_framework": "Customer discovery and business model validation"
+        }
+      ],
+      "weekly_deliverables": [
+        "Customer discovery report (10+ interviews)",
+        "Complete Business Model Canvas",
+        "Market validation summary with pivot recommendations"
+      ]
+    },
+    {
+      "week": 4,
+      "title": "Implementation & MVP Development",
+      "theme": "Implement - Bringing Solutions to Life",
+      "learning_objectives": [
+        "Learn MVP development principles and lean methodology",
+        "Master project management and execution planning",
+        "Understand legal, financial, and operational basics",
+        "Develop team building and leadership skills",
+        "Apply AI tools for project management and development"
+      ],
+      "content_breakdown": {
+        "videos": {
+          "duration_hours": 2,
+          "topics": [
+            "MVP development and lean methodology (45 min)",
+            "Project management for startups (30 min)",
+            "Case Study: Zocdoc - Healthcare MVP and scaling (45 min)",
+            "Legal, financial, and operational foundations (30 min)"
+          ]
+        },
+        "readings": {
+          "duration_hours": 1.5,
+          "materials": [
+            "Eric Ries' Lean Startup MVP principles",
+            "Startup legal and financial basics guide",
+            "Zocdoc's MVP development and iteration story",
+            "Team building and leadership in startups"
+          ]
+        },
+        "hands_on_activities": {
+          "duration_hours": 4,
+          "activities": [
+            {
+              "name": "MVP Development Sprint",
+              "duration": "180 min",
+              "description": "Build functional MVP using no-code/low-code tools",
+              "ai_tools": ["Bubble for app development", "Zapier AI for automation", "GitHub Copilot for coding"],
+              "deliverable": "Working MVP with core features"
+            },
+            {
+              "name": "Go-to-Market Strategy Design",
+              "duration": "60 min",
+              "description": "Create comprehensive launch and marketing plan",
+              "ai_tools": ["ChatGPT for strategy development", "Canva AI for marketing materials"],
+              "deliverable": "Go-to-market strategy document"
+            }
+          ]
+        },
+        "peer_collaboration": {
+          "duration_hours": 0.5,
+          "activities": [
+            "MVP testing and feedback sessions (30 min)"
+          ]
+        },
+        "ai_tool_integration": [
+          {
+            "tool": "Bubble/Webflow",
+            "purpose": "No-code MVP development",
+            "training": "Rapid application development"
+          },
+          {
+            "tool": "Zapier AI",
+            "purpose": "Workflow automation and integration",
+            "training": "AI-powered business process automation"
+          },
+          {
+            "tool": "GitHub Copilot",
+            "purpose": "Code generation and development assistance",
+            "training": "AI-assisted programming"
+          }
+        ],
+        "gamification_elements": {
+          "points_available": 140,
+          "badges": ["MVP Master", "Launch Leader", "Execution Expert"],
+          "team_challenge": "48-Hour MVP Challenge - teams race to build and launch",
+          "leaderboard_criteria": "MVP functionality and go-to-market strategy quality"
+        },
+        "assessment": {
+          "formative": [
+            "MVP functionality and user experience (80 points)",
+            "Go-to-market strategy comprehensiveness (40 points)"
+          ],
+          "summative": [
+            "Implementation reflection and lessons learned (20 points)"
+          ]
+        }
+      },
+      "case_studies": [
+        {
+          "company": "Zocdoc",
+          "focus": "Healthcare MVP development and iterative improvement",
+          "analysis_framework": "Lean startup methodology and MVP validation"
+        }
+      ],
+      "weekly_deliverables": [
+        "Functional MVP with core features",
+        "Go-to-market strategy document",
+        "Implementation reflection and lessons learned"
+      ]
+    },
+    {
+      "week": 5,
+      "title": "Growth & Social Impact",
+      "theme": "Evaluate - Measuring Success and Impact",
+      "learning_objectives": [
+        "Learn growth hacking and scaling strategies",
+        "Understand metrics, analytics, and performance measurement",
+        "Explore social entrepreneurship and impact measurement",
+        "Develop fundraising and investment readiness skills",
+        "Master data analysis and AI-powered insights"
+      ],
+      "content_breakdown": {
+        "videos": {
+          "duration_hours": 2,
+          "topics": [
+            "Growth hacking and scaling strategies (45 min)",
+            "Metrics, KPIs, and startup analytics (30 min)",
+            "Case Study: TOMS - Social impact and sustainable business models (45 min)",
+            "Fundraising basics and investor readiness (30 min)"
+          ]
+        },
+        "readings": {
+          "duration_hours": 1.5,
+          "materials": [
+            "Growth hacking methodology and case studies",
+            "Startup metrics and KPI frameworks",
+            "TOMS Shoes social impact model analysis",
+            "Fundraising and investment preparation guide"
+          ]
+        },
+        "hands_on_activities": {
+          "duration_hours": 3.5,
+          "activities": [
+            {
+              "name": "Growth Strategy Development",
+              "duration": "120 min",
+              "description": "Design comprehensive growth plan with metrics and experiments",
+              "ai_tools": ["Google Analytics AI", "Mixpanel for analytics", "ChatGPT for strategy development"],
+              "deliverable": "Growth strategy with experimentation roadmap"
+            },
+            {
+              "name": "Impact Measurement Framework",
+              "duration": "90 min",
+              "description": "Create social and business impact measurement system",
+              "ai_tools": ["Tableau AI for visualization", "Excel AI for analysis"],
+              "deliverable": "Impact measurement dashboard"
+            }
+          ]
+        },
+        "peer_collaboration": {
+          "duration_hours": 1,
+          "activities": [
+            "Growth strategy peer review (30 min)",
+            "Impact measurement methodology sharing (30 min)"
+          ]
+        },
+        "ai_tool_integration": [
+          {
+            "tool": "Google Analytics AI",
+            "purpose": "Advanced analytics and insights",
+            "training": "AI-powered business intelligence"
+          },
+          {
+            "tool": "Tableau AI",
+            "purpose": "Data visualization and dashboard creation",
+            "training": "Automated data storytelling"
+          },
+          {
+            "tool": "Mixpanel",
+            "purpose": "Product analytics and user behavior tracking",
+            "training": "Growth metrics and experimentation"
+          }
+        ],
+        "gamification_elements": {
+          "points_available": 135,
+          "badges": ["Growth Guru", "Impact Innovator", "Metrics Master"],
+          "team_challenge": "Social Impact Innovation - design solutions for global challenges",
+          "leaderboard_criteria": "Growth strategy viability and social impact potential"
+        },
+        "assessment": {
+          "formative": [
+            "Growth strategy quality and feasibility (70 points)",
+            "Impact measurement framework design (45 points)"
+          ],
+          "summative": [
+            "Growth and impact analysis report (20 points)"
+          ]
+        }
+      },
+      "case_studies": [
+        {
+          "company": "TOMS Shoes",
+          "focus": "Social impact business models and sustainable growth",
+          "analysis_framework": "Triple bottom line and impact measurement"
+        }
+      ],
+      "weekly_deliverables": [
+        "Growth strategy with experimentation roadmap",
+        "Impact measurement dashboard",
+        "Growth and impact analysis report"
+      ]
+    },
+    {
+      "week": 6,
+      "title": "Pitch & Future Planning",
+      "theme": "Present - Communicating Vision and Next Steps",
+      "learning_objectives": [
+        "Master pitch development and presentation skills",
+        "Learn to create compelling investor and stakeholder presentations",
+        "Develop networking and relationship building strategies",
+        "Create actionable post-course development plans",
+        "Build entrepreneurial community and support networks"
+      ],
+      "content_breakdown": {
+        "videos": {
+          "duration_hours": 1.5,
+          "topics": [
+            "Pitch deck development and storytelling (45 min)",
+            "Presentation skills and public speaking (30 min)",
+            "Networking and relationship building strategies (15 min)"
+          ]
+        },
+        "readings": {
+          "duration_hours": 1,
+          "materials": [
+            "Pitch deck best practices and examples",
+            "Public speaking and presentation skills guide",
+            "Entrepreneurial networking strategies"
+          ]
+        },
+        "hands_on_activities": {
+          "duration_hours": 4,
+          "activities": [
+            {
+              "name": "Pitch Deck Creation",
+              "duration": "120 min",
+              "description": "Develop comprehensive investor-ready pitch presentation",
+              "ai_tools": ["Gamma AI for presentation creation", "Grammarly for content refinement", "Canva AI for design"],
+              "deliverable": "Professional pitch deck (10-12 slides)"
+            },
+            {
+              "name": "Final Pitch Competition",
+              "duration": "120 min",
+              "description": "Present to panel of judges and peers in competition format",
+              "ai_tools": ["Otter.ai for feedback transcription"],
+              "deliverable": "Live pitch presentation and Q&A"
+            }
+          ]
+        },
+        "peer_collaboration": {
+          "duration_hours": 1.5,
+          "activities": [
+            "Pitch practice sessions and feedback (60 min)",
+            "Networking and relationship building workshop (30 min)"
+          ]
+        },
+        "ai_tool_integration": [
+          {
+            "tool": "Gamma AI",
+            "purpose": "AI-powered presentation creation",
+            "training": "Automated slide design and content generation"
+          },
+          {
+            "tool": "Grammarly Business",
+            "purpose": "Professional communication and content refinement",
+            "training": "AI-assisted business writing"
+          },
+          {
+            "tool": "LinkedIn AI",
+            "purpose": "Professional networking and content creation",
+            "training": "AI-powered professional branding"
+          }
+        ],
+        "gamification_elements": {
+          "points_available": 150,
+          "badges": ["Pitch Perfect", "Presentation Pro", "Network Navigator", "Course Champion"],
+          "team_challenge": "Final Pitch Competition with prizes and recognition",
+          "leaderboard_criteria": "Pitch quality, presentation skills, and peer voting"
+        },
+        "assessment": {
+          "formative": [
+            "Pitch deck quality and design (60 points)",
+            "Presentation delivery and Q&A handling (70 points)"
+          ],
+          "summative": [
+            "Course reflection and future planning document (20 points)"
+          ]
+        }
+      },
+      "case_studies": [
+        {
+          "company": "All featured companies",
+          "focus": "Synthesis of lessons learned and application to student ventures",
+          "analysis_framework": "Comprehensive PSIF application and reflection"
+        }
+      ],
+      "weekly_deliverables": [
+        "Professional pitch deck (10-12 slides)",
+        "Live pitch presentation",
+        "Course reflection and future planning document",
+        "Entrepreneurial network contact list"
+      ]
+    }
+  ],
+  "assessment_strategy": {
+    "total_points": 775,
+    "grading_scale": {
+      "A": "700-775 points (90-100%)",
+      "B": "620-699 points (80-89%)",
+      "C": "543-619 points (70-79%)",
+      "D": "465-542 points (60-69%)",
+      "F": "Below 465 points (<60%)"
+    },
+    "assessment_types": {
+      "formative_assessments": {
+        "percentage": 70,
+        "description": "Weekly activities, prototypes, and peer collaborations"
+      },
+      "summative_assessments": {
+        "percentage": 20,
+        "description": "Reflection essays, analysis reports, and strategic documents"
+      },
+      "final_competition": {
+        "percentage": 10,
+        "description": "Final pitch competition and presentation"
+      }
+    },
+    "peer_assessment_component": {
+      "percentage": 15,
+      "activities": ["Peer feedback on prototypes", "Team collaboration ratings", "Pitch competition peer voting"]
+    }
+  },
+  "gamification_system": {
+    "innovation_points": {
+      "total_available": 775,
+      "weekly_distribution": [100, 120, 130, 140, 135, 150],
+      "bonus_opportunities": "Extra points for exceptional creativity, helping peers, and going beyond requirements"
+    },
+    "achievement_badges": {
+      "skill_badges": [
+        "Problem Hunter", "Canvas Master", "Empathy Expert", "Idea Machine", "Prototype Pro",
+        "Innovation Catalyst", "Customer Whisperer", "Model Master", "Market Detective",
+        "MVP Master", "Launch Leader", "Execution Expert", "Growth Guru", "Impact Innovator",
+        "Metrics Master", "Pitch Perfect", "Presentation Pro", "Network Navigator"
+      ],
+      "milestone_badges": [
+        "Week 1 Champion", "Week 2 Champion", "Week 3 Champion", "Week 4 Champion",
+        "Week 5 Champion", "Week 6 Champion", "Course Champion", "AI Tool Master"
+      ]
+    },
+    "leaderboards": {
+      "weekly_leaders": "Top 3 students each week based on points and peer ratings",
+      "overall_ranking": "Cumulative points and badge collection",
+      "team_challenges": "Collaborative competition results"
+    },
+    "rewards_and_recognition": {
+      "digital_certificates": "Completion certificates and skill badges",
+      "pitch_competition_prizes": "Cash prizes, mentorship opportunities, and startup resources",
+      "networking_opportunities": "Access to exclusive entrepreneur events and communities"
+    }
+  },
+  "ai_tools_curriculum": {
+    "tool_categories": {
+      "generative_ai": ["ChatGPT", "Claude", "Gemini"],
+      "design_and_prototyping": ["Figma AI", "Canva AI", "Midjourney", "DALL-E"],
+      "no_code_development": ["Bubble", "Webflow", "Zapier AI"],
+      "research_and_analysis": ["Perplexity AI", "Otter.ai", "Typeform AI"],
+      "business_intelligence": ["Google Analytics AI", "Tableau AI", "Mixpanel"],
+      "productivity_and_collaboration": ["Notion AI", "Miro AI", "Grammarly Business"],
+      "presentation_and_communication": ["Gamma AI", "LinkedIn AI"]
+    },
+    "training_approach": {
+      "hands_on_learning": "Students use tools in real project contexts",
+      "prompt_engineering": "Training on effective AI communication and prompt design",
+      "ethical_ai_use": "Guidelines for responsible AI usage in business contexts",
+      "tool_integration": "Combining multiple AI tools for comprehensive solutions"
+    },
+    "ai_literacy_outcomes": [
+      "Proficiency in prompt engineering for business applications",
+      "Understanding of AI capabilities and limitations",
+      "Ability to integrate AI tools into entrepreneurial workflows",
+      "Knowledge of AI ethics and responsible usage"
+    ]
+  },
+  "support_systems": {
+    "mentorship_program": {
+      "industry_mentors": "Successful entrepreneurs and business leaders",
+      "peer_mentoring": "Advanced students supporting newcomers",
+      "ai_teaching_assistants": "AI-powered support for common questions"
+    },
+    "community_building": {
+      "online_forums": "Discussion boards for each week's topics",
+      "study_groups": "Self-organized peer learning groups",
+      "alumni_network": "Connection to course graduates and ongoing support"
+    },
+    "resource_library": {
+      "template_collection": "Business model canvases, pitch deck templates, etc.",
+      "tool_tutorials": "Step-by-step guides for all AI tools",
+      "case_study_database": "Extended analysis of featured companies"
+    }
+  },
+  "post_course_pathways": {
+    "startup_track": {
+      "incubator_partnerships": "Connections to startup incubators and accelerators",
+      "funding_opportunities": "Introduction to angel investors and VCs",
+      "continued_mentorship": "Ongoing support for venture development"
+    },
+    "corporate_innovation_track": {
+      "internship_placements": "Opportunities with innovation-focused companies",
+      "intrapreneurship_roles": "Corporate innovation and new venture development",
+      "consulting_opportunities": "Innovation consulting for established businesses"
+    },
+    "academic_advancement": {
+      "research_opportunities": "Entrepreneurship and innovation research projects",
+      "advanced_coursework": "Recommendations for further entrepreneurship education",
+      "teaching_assistant_roles": "Opportunities to support future course iterations"
+    }
+  },
+  "success_metrics": {
+    "student_outcomes": [
+      "90% of students complete with actionable startup idea or career plan",
+      "80% report increased confidence in entrepreneurial abilities",
+      "70% pursue entrepreneurial activities within 6 months post-course",
+      "Average student satisfaction rating of 4.5/5.0"
+    ],
+    "learning_effectiveness": [
+      "Pre/post assessments show 40% improvement in entrepreneurial knowledge",
+      "Portfolio quality meets or exceeds industry standards",
+      "Peer collaboration ratings average 4.0/5.0 or higher"
+    ],
+    "long_term_impact": [
+      "25% of students launch ventures within 12 months",
+      "50% report career advancement or pivot within 18 months",
+      "Alumni network engagement rate of 60% or higher"
+    ]
+  }
+}
