@@ -1,0 +1,1747 @@
+[
+  {
+    "state_name": "Alabama",
+    "state_code": "AL",
+    "funding_programs": [
+      {
+        "name": "State Small Business Credit Initiative (SSBCI)",
+        "description": "A federal program administered by Innovate Alabama, providing nearly $98 million in funding through its LendAL (loan) and InvestAL (venture capital) components to support small businesses across the state, with a focus on underserved communities.",
+        "website_url": "https://innovatealabama.org/stories/2024/06/a-new-day-for-entrepreneurs-in-alabama-98-million-available-for-small-businesses/",
+        "contact_info": "Administered by Innovate Alabama. LendAL Manager: Walt Postlewait. InvestAL Manager: Rodney Sampson.",
+        "eligibility_criteria": "Open to all small businesses in Alabama. A significant focus is placed on historically underserved communities, including rural farmers, veterans, and women-run startups. It is not exclusive to tech or innovative small businesses.",
+        "application_deadlines": "Administered starting in 2024, with a three-year window to allocate funds.",
+        "funding_amount": "$97.9 million total allocation.",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      },
+      {
+        "name": "Innovate Alabama Supplemental Grant Program",
+        "description": "This initiative targets Alabama-based recipients of Federal Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) grants, providing supplemental funding to bridge the gap for research and development commercialization.",
+        "website_url": "https://resolvepay.com/blog/post/small-business-funding-programs-alabama",
+        "contact_info": "Administered by Innovate Alabama.",
+        "eligibility_criteria": "Small businesses based in Alabama that are active recipients of federal SBIR or STTR grants.",
+        "application_deadlines": "Varies; check with Innovate Alabama.",
+        "funding_amount": "Up to $250,000",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      },
+      {
+        "name": "Federal Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) Programs",
+        "description": "Federal programs that facilitate the development of scientific excellence and technological innovation through federal research funds. Structured in three phases, from concept feasibility to commercialization.",
+        "website_url": "https://www.sbir.gov/",
+        "contact_info": "Federal program, multiple agencies participate.",
+        "eligibility_criteria": "American-owned and operated businesses with 500 or fewer employees. Highly competitive.",
+        "application_deadlines": "Varies by federal agency.",
+        "funding_amount": "Phase I: up to $150,000. Phase II: up to $1 million.",
+        "program_duration": "Phase I: 6-12 months. Phase II: up to 2 years.",
+        "location": "Nationwide (with state support in Alabama)"
+      }
+    ],
+    "accelerators_incubators": [
+      {
+        "name": "Techstars Alabama EnergyTech Accelerator",
+        "description": "A 13-week mentorship-driven program in Birmingham for pre-seed startups focusing on innovative electrical and utility solutions, climate tech, and clean tech. Powered by Alabama Power.",
+        "website_url": "https://growth.aerialops.io/accelerators/state/alabama",
+        "contact_info": "Founders: Brad Feld, Chisa Egbelu, Daniel Mason, David Brown, David Cohen, and Jared Polis.",
+        "eligibility_criteria": "Pre-seed startups in EnergyTech, Climate Tech, Clean Tech, and related fields. Welcomes founders from diverse backgrounds worldwide.",
+        "application_deadlines": "Applications for the Techstars Alabama Power EnergyTech Accel opened May 22, 2024, with a final deadline on September 9, 2024. The initiative commences in December 2024.",
+        "funding_amount": "$120K for 6% equity",
+        "program_duration": "13 weeks",
+        "location": "Birmingham, AL"
+      },
+      {
+        "name": "Innovation Depot",
+        "description": "A non-profit tech accelerator and incubator in Birmingham supporting tech and bio-focused, high-growth businesses. Offers programs like Vision ID and Voltage, along with resources, mentorship, and funding opportunities.",
+        "website_url": "https://innovationdepot.org/",
+        "contact_info": "Located in Birmingham, AL. In partnership with the University of Alabama at Birmingham.",
+        "eligibility_criteria": "Technology and bio-related startups, including biotechnology/life science, information technology, and service businesses.",
+        "application_deadlines": "Varies by program.",
+        "funding_amount": "Facilitates funding opportunities.",
+        "program_duration": "Varies (offers both short courses and long-term incubation).",
+        "location": "Birmingham, AL"
+      },
+      {
+        "name": "SPARK Huntsville",
+        "description": "A free, seven-week, in-person venture-creation program by gener8tor for builders in the post-idea, pre-MVP phase. It provides individualized coaching and mentorship to validate ideas and launch MVPs.",
+        "website_url": "https://www.gener8tor.com/spark/huntsville",
+        "contact_info": "Managed by gener8tor.",
+        "eligibility_criteria": "Based in North Alabama (Huntsville/Madison County). Industry-agnostic, but not for brick & mortar, service businesses, or CPG. Requires commitment of at least 3 hours per week.",
+        "application_deadlines": "Runs multiple times a year; check website for current cohort applications.",
+        "funding_amount": "No funding provided; program is free.",
+        "program_duration": "7 weeks",
+        "location": "Huntsville, AL"
+      },
+      {
+        "name": "gBETA Huntsville",
+        "description": "A free, seven-week accelerator for early-stage companies with a product/MVP and early traction. Provides intensive coaching and access to a national network of mentors, customers, and investors.",
+        "website_url": "https://www.gener8tor.com/gbeta/huntsville",
+        "contact_info": "Managed by MidCity Accelerator Foundation in collaboration with gener8tor.",
+        "eligibility_criteria": "Early-stage startups that have launched a product or MVP and have early traction. Sector agnostic.",
+        "application_deadlines": "Runs in cohorts; check website for application dates.",
+        "funding_amount": "No funding provided; program is free.",
+        "program_duration": "7 weeks",
+        "location": "Huntsville, AL"
+      },
+      {
+        "name": "Prosper HealthTech Accelerator",
+        "description": "A 12-week accelerator powered by gener8tor, supporting health technology startups in areas like digital health, medical devices, and telemedicine. Aims to position Birmingham as a health tech hub.",
+        "website_url": "https://www.gener8tor.com/investment-accelerators/prosper-healthtech",
+        "contact_info": "Managed by Prosper and gener8tor.",
+        "eligibility_criteria": "High-growth health technology startups.",
+        "application_deadlines": "Two cohorts annually; check website for details.",
+        "funding_amount": "Up to $60,000 in exchange for 6% common stock equity.",
+        "program_duration": "12 weeks",
+        "location": "Birmingham, AL"
+      },
+      {
+        "name": "Innovation Portal",
+        "description": "A nonprofit incubator and innovation hub in Mobile dedicated to accelerating startup growth in Southwest Alabama and the central Gulf Coast. Offers programs like the EIC Accelerator and the Portal Fund for pre-seed investments.",
+        "website_url": "https://innovation-portal.com/",
+        "contact_info": "Located in Mobile, AL. Prominent donors include US EDA and Alabama Power.",
+        "eligibility_criteria": "High-growth ventures in technology, healthcare, sustainability, and other domains, located in or willing to relocate to the Gulf Coast Region.",
+        "application_deadlines": "Varies by program. EIC Accelerator has a two-step proposal process.",
+        "funding_amount": "Portal Fund: $10,000 to $50,000. EIC Accelerator: EUR 0.5 million to EUR 17.5 million.",
+        "program_duration": "Varies",
+        "location": "Mobile, AL"
+      },
+      {
+        "name": "The Edge",
+        "description": "A 26,000-square-foot incubator and 'One Stop' Business Resource Center in Tuscaloosa. A partnership between The University of Alabama, the West Alabama Chamber of Commerce, and the City of Tuscaloosa.",
+        "website_url": "https://edge.ua.edu/",
+        "contact_info": "Located in Tuscaloosa, AL.",
+        "eligibility_criteria": "Caters to individuals with existing businesses or those with business propositions needing assistance.",
+        "application_deadlines": "N/A",
+        "funding_amount": "Facilitates access to funding.",
+        "program_duration": "Long-term incubation support.",
+        "location": "Tuscaloosa, AL"
+      }
+    ],
+    "communities_networking": [
+      {
+        "name": "SlossTech",
+        "description": "The Southeast's premier annual tech conference, which integrates with state funding initiatives to support the growing tech ecosystem.",
+        "website_url": "https://sloss.tech/",
+        "contact_info": "N/A",
+        "eligibility_criteria": "Open to tech professionals, entrepreneurs, and investors.",
+        "application_deadlines": "Annual event",
+        "funding_amount": "N/A",
+        "program_duration": "Annual conference",
+        "location": "Birmingham, AL"
+      },
+      {
+        "name": "Alabama Small Business Development Center Network (Alabama SBDC)",
+        "description": "A cornerstone of support, offering a wide array of services including technical assistance, educational workshops, and specialized advice for creating exportable products. Provides tailored guidance to enhance the capabilities of small and micro-business owners.",
+        "website_url": "https://asbdc.org/",
+        "contact_info": "Multiple locations across Alabama.",
+        "eligibility_criteria": "Small and micro-business owners in Alabama.",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "Ongoing support",
+        "location": "Statewide"
+      }
+    ],
+    "legal_business_resources": [
+      {
+        "name": "Alabama Secretary of State - Business Services Division",
+        "description": "The principal administrative body for business registration in Alabama. Handles the filing of formation documents for domestic and foreign entities (LLCs, Corporations), commercial liens, and maintains business records. Requires name reservation for domestic corporations prior to filing.",
+        "website_url": "https://www.sos.alabama.gov/business-services",
+        "contact_info": "Secretary of State: Wes Allen",
+        "eligibility_criteria": "Any individual or entity seeking to form a business or transact business in Alabama.",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      },
+      {
+        "name": "Alabama Department of Revenue - Business Registration",
+        "description": "Provides resources for starting a new business and handles tax registration for entities like S Corporations, which must submit an initial Business Privilege Tax Return within 2.5 months of formation.",
+        "website_url": "https://www.revenue.alabama.gov/businesses/",
+        "contact_info": "N/A",
+        "eligibility_criteria": "All new businesses operating in Alabama.",
+        "application_deadlines": "Varies by tax type.",
+        "funding_amount": "N/A",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      }
+    ],
+    "university_programs": [
+      {
+        "name": "The University of Alabama - Alabama Entrepreneurship Institute (AEI)",
+        "description": "A campus-wide initiative that serves as a magnet for innovators, inventors, and entrepreneurs. It aims to spark innovation and create new jobs by propelling enterprises forward with research-backed best practices. Powers many programs at The EDGE incubator.",
+        "website_url": "https://culverhouse.ua.edu/aei/",
+        "contact_info": "Executive Director: Dr. Theresa M. Welbourne",
+        "eligibility_criteria": "Open to University of Alabama students, faculty, staff, and the broader West Alabama community.",
+        "application_deadlines": "Varies by program.",
+        "funding_amount": "Varies by competition (e.g., Edward K. Aldag Jr. Student Business Plan Competition has a $50,000 grand prize).",
+        "program_duration": "Varies by program.",
+        "location": "Tuscaloosa, AL"
+      },
+      {
+        "name": "Auburn University - New Venture Accelerator",
+        "description": "A collaborative co-working space managed by the Harbert College of Business and The Auburn Research and Technology Foundation. It offers guidance to high-potential startups, leveraging a team of Entrepreneurs-In-Residence.",
+        "website_url": "https://harbert.auburn.edu/research-and-outreach/centers-and-initiatives/new-venture-accelerator/index.html",
+        "contact_info": "Located in the Auburn Research Park.",
+        "eligibility_criteria": "Primarily focuses on businesses led by entrepreneurs in the Auburn-Opelika area and surrounding communities.",
+        "application_deadlines": "Varies.",
+        "funding_amount": "Facilitates access to venture investment.",
+        "program_duration": "Ongoing support.",
+        "location": "Auburn, AL"
+      },
+      {
+        "name": "University of Alabama at Birmingham (UAB) - Institute for Innovation and Entrepreneurship (HIIE)",
+        "description": "A hub for technology commercialization, innovation development, and mentorship for emerging entrepreneurs at UAB. Actively translates UAB discoveries into new products and startups, offering programs like the Blazer Bridge Fund.",
+        "website_url": "https://www.uab.edu/innovation/",
+        "contact_info": "Located at UAB, Birmingham, AL.",
+        "eligibility_criteria": "UAB faculty, staff, and students seeking to commercialize innovation.",
+        "application_deadlines": "Varies by program.",
+        "funding_amount": "Blazer Bridge Fund provides up to $50,000 for early-stage technologies.",
+        "program_duration": "Varies.",
+        "location": "Birmingham, AL"
+      }
+    ],
+    "startup_ecosystems": [
+      {
+        "name": "Birmingham Tech and Healthcare Ecosystem",
+        "description": "Birmingham is a growing center for technology and healthcare startups, supported by resources like Innovation Depot, Prosper HealthTech Accelerator, and Techstars. It hosts SlossTech, the Southeast's premier annual tech conference. Notable alumni from local accelerators include Abel Healthcare, Coolbus, and LunarLab.",
+        "website_url": "N/A",
+        "contact_info": "N/A",
+        "eligibility_criteria": "N/A",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "N/A",
+        "location": "Birmingham, AL"
+      },
+      {
+        "name": "Huntsville Space and Biotech Hub",
+        "description": "Huntsville is a booming hub for space and biotechnology startups, supported by gener8tor programs like SPARK and gBETA, which focus on fostering early-stage tech ventures.",
+        "website_url": "N/A",
+        "contact_info": "N/A",
+        "eligibility_criteria": "N/A",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "N/A",
+        "location": "Huntsville, AL"
+      },
+      {
+        "name": "Auburn University Entrepreneurial Ecosystem",
+        "description": "Auburn University fosters a strong entrepreneurial ecosystem through its New Venture Accelerator and other programs, successfully launching over 50 businesses that have received over $47 million in venture investment. Notable portfolio companies include Yellow Card, Flashtract, and Vulcan Line Tools.",
+        "website_url": "N/A",
+        "contact_info": "N/A",
+        "eligibility_criteria": "N/A",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "N/A",
+        "location": "Auburn, AL"
+      }
+    ]
+  },
+  {
+    "state_name": "Alaska",
+    "state_code": "AK",
+    "funding_programs": [
+      {
+        "name": "State Small Business Credit Initiative (SSBCI)",
+        "description": "A federal program administered by the Alaska SBDC, facilitating the distribution of funds to banks, credit unions, and investment funds to provide loans and investments to eligible small businesses statewide. Includes both a State program and a Tribal Consortium.",
+        "website_url": "https://aksbdc.org/ssbci/",
+        "contact_info": "Administered by Alaska Small Business Development Center (SBDC).",
+        "eligibility_criteria": "For-profit businesses in Alaska with fewer than 750 employees, seeking loans or investment rounds of $20 million or less. Cannot be used for cannabis, passive real estate, or gaming.",
+        "application_deadlines": "Rolling basis.",
+        "funding_amount": "State Program: ~$59 million. Tribal Consortium: $83.1 million.",
+        "program_duration": "10-year program",
+        "location": "Statewide"
+      },
+      {
+        "name": "Alaska SBIR/STTR Grant Program",
+        "description": "Provides state grant funding to businesses that have successfully secured federal Small Business Innovation Research (SBIR) or Small Business Technology Transfer (STTR) awards, helping to bridge funding gaps.",
+        "website_url": "https://www.commerce.alaska.gov/web/dcra/GrantsSection/SBIR-STTRGrant.aspx",
+        "contact_info": "Managed by the Grants Section, Division of Community & Regional Affairs, Alaska Department of Commerce.",
+        "eligibility_criteria": "Businesses that have secured federal SBIR/STTR awards.",
+        "application_deadlines": "Varies.",
+        "funding_amount": "Up to $25,000 for Phase I awardees.",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      },
+      {
+        "name": "Grants to Alaska Individuals with Disabilities for Business Ventures",
+        "description": "A grant to assist and encourage individuals with disabilities to engage in new business ventures or expand existing ones, helping them enter the business sector.",
+        "website_url": "https://alaska.grantwatch.com/grant/198927/grants-to-alaska-individuals-with-disabilities-to-engage-in-new-business-ventures-or-expand-existing-businesses.html",
+        "contact_info": "Listed on GrantWatch.com",
+        "eligibility_criteria": "Individuals with disabilities in Alaska seeking to start or expand a business.",
+        "application_deadlines": "September 10, 2025",
+        "funding_amount": "Up to $10,000",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      },
+      {
+        "name": "Alaska Seed Fund",
+        "description": "A private fund that invests in the region's top innovators and entrepreneurs, offering investments to build Alaska's innovation economy.",
+        "website_url": "https://www.alaskaseedfund.com/",
+        "contact_info": "Private fund.",
+        "eligibility_criteria": "Innovators and entrepreneurs in Alaska.",
+        "application_deadlines": "Varies.",
+        "funding_amount": "$50,000 to $300,000",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      }
+    ],
+    "accelerators_incubators": [
+      {
+        "name": "Alaska Interior Business Accelerator (AIBA)",
+        "description": "An intensive eight-week program for early-stage businesses in Interior Alaska, providing mentorship, networking, and education on topics from business model creation to investor pitching. A partnership between UAF Center ICE, FEDC, SBDC, and UAF CTC.",
+        "website_url": "https://interioraccelerator.com/",
+        "contact_info": "Mark Billingsley, mcbillingsley@alaska.edu, 907-474-2626",
+        "eligibility_criteria": "Businesses located in Interior Alaska (Fairbanks North Star Borough, Denali Borough, etc.). Preference for currently operating businesses.",
+        "application_deadlines": "Applications for Spring 2025 cohort close March 3, 2025.",
+        "funding_amount": "No direct funding; culminates in a pitch competition with a prize.",
+        "program_duration": "8 weeks",
+        "location": "Fairbanks, AK (in-person and online)"
+      },
+      {
+        "name": "Launch Alaska (Tech Deployment Track)",
+        "description": "An eight-month deployment accelerator for market-ready tech startups focused on decarbonizing energy, transportation, and industrial systems. Connects startups with partners and project opportunities in Alaska.",
+        "website_url": "https://www.launchalaska.com/",
+        "contact_info": "2550 Denali St., Suite 706, Anchorage, AK 99503; 907-308-7211; info@launchalaska.com",
+        "eligibility_criteria": "Market-ready, mid to late-stage climate tech startups in food, water, transportation, and energy sectors.",
+        "application_deadlines": "Varies; check website.",
+        "funding_amount": "Does not provide direct funding but facilitates project deployment and connections to capital.",
+        "program_duration": "8 months",
+        "location": "Anchorage, AK"
+      },
+      {
+        "name": "Upstart Alpha Entrepreneur Accelerator",
+        "description": "A statewide program by the University of Alaska Center for Economic Development (CED) for early-stage entrepreneurs. It follows the Lean Launch philosophy, teaching customer discovery and business model development.",
+        "website_url": "https://www.alaskastartups.com/accelerators-competitions-and-more/",
+        "contact_info": "1901 Bragaw St, Anchorage, AK 99508, USA",
+        "eligibility_criteria": "Alaska-based, early-stage entrepreneurs. Welcomes women, people of color, and individuals from diverse backgrounds.",
+        "application_deadlines": "Varies.",
+        "funding_amount": "N/A",
+        "program_duration": "Multi-phase program.",
+        "location": "Anchorage, AK (with statewide reach)"
+      },
+      {
+        "name": "gBETA Startup Accelerator (Anchorage)",
+        "description": "A free, seven-week, intensive accelerator program by gener8tor for early-stage startups. Provides individualized coaching, investor pitches, and access to a national network.",
+        "website_url": "https://www.gener8tor.com/gbeta/anchorage",
+        "contact_info": "Managed by gener8tor.",
+        "eligibility_criteria": "Early-stage companies, typically post-product and pre-scale, from a range of verticals.",
+        "application_deadlines": "Runs in cohorts; check website.",
+        "funding_amount": "No funding provided; program is free.",
+        "program_duration": "7 weeks",
+        "location": "Anchorage, AK"
+      },
+      {
+        "name": "Alaska Fisheries Development Foundation (AFDF) Startup Accelerator",
+        "description": "An accelerator focused on innovations that support Alaska's Blue Economy and healthy oceans. Provides personalized support, mentorship, and connections to funding for early-stage companies.",
+        "website_url": "https://www.afdf.org/afdf-startup-accelerator/",
+        "contact_info": "Managed by Alaska Fisheries Development Foundation.",
+        "eligibility_criteria": "Early-stage companies with innovations in Alaska's Blue Economy and ocean health.",
+        "application_deadlines": "Varies.",
+        "funding_amount": "Does not provide direct funding but connects startups to grant programs and investors.",
+        "program_duration": "Personalized support timeline.",
+        "location": "Statewide"
+      }
+    ],
+    "communities_networking": [
+      {
+        "name": "Alaska Small Business Development Center (SBDC)",
+        "description": "A crucial resource offering technical assistance, training, and guidance to startups and small businesses. Provides self-serve resources, client services, workshops, tools, and expert advising.",
+        "website_url": "https://aksbdc.org/",
+        "contact_info": "Offices in Anchorage, Fairbanks, Juneau, Kenai Peninsula, Mat-Su, and Rural areas.",
+        "eligibility_criteria": "Startups and small businesses in Alaska.",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "Ongoing support",
+        "location": "Statewide"
+      },
+      {
+        "name": "1 Million Cups Anchorage",
+        "description": "A weekly presentation and community gathering that provides a supportive space for entrepreneurs to discuss business challenges and opportunities. A primary entry point into the Alaska entrepreneurial ecosystem.",
+        "website_url": "https://www.1millioncups.com/anchorage",
+        "contact_info": "N/A",
+        "eligibility_criteria": "Open to all entrepreneurs and community members.",
+        "application_deadlines": "Weekly event.",
+        "funding_amount": "N/A",
+        "program_duration": "Weekly event",
+        "location": "Anchorage, AK"
+      },
+      {
+        "name": "Alaska Angel Conference (AAC)",
+        "description": "An annual program by the 49th State Angel Fund that pairs experienced and novice angel investors to make a group investment. It nurtures companies and mentors founders, awarding a $100k+ investment to one startup annually.",
+        "website_url": "https://www.alaskaangelconference.com/",
+        "contact_info": "Managed by 49th State Angel Fund.",
+        "eligibility_criteria": "Startups applying for funding; novice and experienced angel investors.",
+        "application_deadlines": "Annual cycle.",
+        "funding_amount": "$100,000+ investment for one winner.",
+        "program_duration": "12-week process",
+        "location": "Statewide"
+      }
+    ],
+    "legal_business_resources": [
+      {
+        "name": "Alaska Department of Commerce, Community, and Economic Development (DCCED)",
+        "description": "The primary state authority for business registration, licensing, and professional licensing. The Division of Corporations, Business and Professional Licensing (CBPL) handles the formation of LLCs and corporations.",
+        "website_url": "https://www.commerce.alaska.gov/web/cbpl",
+        "contact_info": "Phone: 907-465-2550; Email: businesslicense@alaska.gov",
+        "eligibility_criteria": "Any individual or entity seeking to start or operate a business in Alaska.",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      },
+      {
+        "name": "Alaska LLC Formation Requirements",
+        "description": "Process involves choosing a unique name, appointing a registered agent, filing Articles of Organization (Form 08-484) with the DCCED, and filing an Initial Report within six months. A biennial report is required every two years.",
+        "website_url": "https://www.commerce.alaska.gov/web/cbpl/Corporations/LLC.aspx",
+        "contact_info": "Alaska Division of Corporations, PO Box 110806, Juneau, AK 99811-0806",
+        "eligibility_criteria": "Entrepreneurs seeking to form a Limited Liability Company in Alaska.",
+        "application_deadlines": "Initial Report due within 6 months of formation. Biennial Report due January 2nd every two years.",
+        "funding_amount": "Filing Fee: $250. Biennial Report Fee: $100.",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      }
+    ],
+    "university_programs": [
+      {
+        "name": "University of Alaska Anchorage (UAA) Business Enterprise Institute (BEI)",
+        "description": "A central entity linking economic and community development programs across the UA system. It oversees the Alaska SBDC, Center for Economic Development (CED), Alaska APEX Accelerator, and other key support programs.",
+        "website_url": "https://www.uaa.alaska.edu/academics/business-enterprise-institute/",
+        "contact_info": "Located at UAA, Anchorage, AK.",
+        "eligibility_criteria": "Entrepreneurs and small businesses throughout Alaska.",
+        "application_deadlines": "Varies by program.",
+        "funding_amount": "Facilitates access to funding, including the SSBCI program.",
+        "program_duration": "Varies.",
+        "location": "Anchorage, AK (with statewide programs)"
+      },
+      {
+        "name": "University of Alaska Fairbanks (UAF) Center for Innovation, Commercialization, and Entrepreneurship (Center ICE)",
+        "description": "UAF's Innovation Hub, which leverages university research through its Innovation Accelerator. Offers funding, training, and expertise to students, faculty, and staff, and runs programs like the Alaska FAST Partnership and the Arctic Innovation Competition.",
+        "website_url": "https://uaf.edu/centerice/",
+        "contact_info": "Located at UAF, Fairbanks, AK.",
+        "eligibility_criteria": "UAF students, faculty, staff, and external innovators, startups, and businesses.",
+        "application_deadlines": "Varies by program.",
+        "funding_amount": "Offers seed funding and facilitates access to SBIR/STTR awards.",
+        "program_duration": "Varies.",
+        "location": "Fairbanks, AK"
+      },
+      {
+        "name": "Arctic Innovation Competition (AIC)",
+        "description": "Alaska's original idea competition, hosted by UAF, open to innovators of all ages. It awards cash prizes and educational savings plans to foster innovation.",
+        "website_url": "https://www.uaf.edu/aic/",
+        "contact_info": "Hosted by University of Alaska Fairbanks.",
+        "eligibility_criteria": "Innovators of all ages.",
+        "application_deadlines": "Submissions open annually each fall, with the final competition in April.",
+        "funding_amount": "Over $45,000 in cash prizes and Alaska 529 plans.",
+        "program_duration": "Annual competition.",
+        "location": "Statewide"
+      }
+    ],
+    "startup_ecosystems": [
+      {
+        "name": "Anchorage Startup Ecosystem",
+        "description": "The primary hub for entrepreneurship in Alaska, home to Launch Alaska, gBETA, Upstart Alpha, and the UAA Business Enterprise Institute. It hosts numerous networking events like 1 Million Cups and provides access to a growing network of investors and mentors.",
+        "website_url": "N/A",
+        "contact_info": "N/A",
+        "eligibility_criteria": "N/A",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "N/A",
+        "location": "Anchorage, AK"
+      },
+      {
+        "name": "Fairbanks Innovation Hub",
+        "description": "Centered around the University of Alaska Fairbanks, this ecosystem is driven by UAF's Center ICE and the Alaska Interior Business Accelerator (AIBA). It focuses on supporting local entrepreneurs and commercializing university research.",
+        "website_url": "N/A",
+        "contact_info": "N/A",
+        "eligibility_criteria": "N/A",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "N/A",
+        "location": "Fairbanks, AK"
+      },
+      {
+        "name": "Alaska's Blue Economy",
+        "description": "A growing sector focused on sustainable use of ocean resources. Supported by the AFDF Startup Accelerator, which nurtures early-stage companies in fisheries, mariculture, and ocean health. Notable alumni include Blue Dot Kitchen, BeadedStream, and Net Your Problem.",
+        "website_url": "N/A",
+        "contact_info": "N/A",
+        "eligibility_criteria": "N/A",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      }
+    ]
+  },
+  {
+    "state_name": "Arizona",
+    "state_code": "AZ",
+    "funding_programs": [
+      {
+        "name": "Arizona Innovation Challenge (AIC)",
+        "description": "A flagship program by the Arizona Commerce Authority aimed at propelling the growth of early-stage, innovative companies by offering substantial funding and support.",
+        "website_url": "https://www.azcommerce.com/aic/",
+        "contact_info": "Administered by the Arizona Commerce Authority (ACA).",
+        "eligibility_criteria": "Early-stage, innovative businesses with significant growth potential, typically in technology sectors. Must present a solid business model and plan.",
+        "application_deadlines": "Annual competition; check ACA website for dates.",
+        "funding_amount": "Up to $250,000",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      },
+      {
+        "name": "AZ FAST Grant Program",
+        "description": "Administered by the ACA, this program supports innovative, technology-driven small businesses by providing funds, resources, and training to enhance their competitiveness for federal SBIR/STTR grants.",
+        "website_url": "https://www.azcommerce.com/fast-program/",
+        "contact_info": "Administered by the Arizona Commerce Authority (ACA).",
+        "eligibility_criteria": "Innovative, technology-driven small businesses in Arizona preparing SBIR/STTR proposals.",
+        "application_deadlines": "Varies.",
+        "funding_amount": "Varies. The EmergeAZ Fast II Grant allocated $1.5 million for up to 60 entrepreneurs.",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      },
+      {
+        "name": "Arizona State Trade Expansion Program (AZSTEP)",
+        "description": "A partnership between the ACA and the U.S. Small Business Administration that provides grant funding to support Arizona small businesses in entering or expanding into export markets.",
+        "website_url": "https://www.azcommerce.com/azstep/",
+        "contact_info": "Administered by the Arizona Commerce Authority (ACA).",
+        "eligibility_criteria": "Arizona small businesses seeking to export.",
+        "application_deadlines": "Varies.",
+        "funding_amount": "Varies.",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      },
+      {
+        "name": "Amber Grant for Women",
+        "description": "A national grant program awarding funds monthly and annually to women seeking to start or grow their businesses. Open to entrepreneurs in Arizona.",
+        "website_url": "https://ambergrantsforwomen.com/",
+        "contact_info": "Administered by WomensNet.",
+        "eligibility_criteria": "Women entrepreneurs in the USA.",
+        "application_deadlines": "Monthly.",
+        "funding_amount": "$10,000 monthly; $25,000 annually.",
+        "program_duration": "N/A",
+        "location": "Nationwide (including Arizona)"
+      }
+    ],
+    "accelerators_incubators": [
+      {
+        "name": "University of Arizona Center for Innovation (UACI)",
+        "description": "Arizona's leading incubator, supporting early-stage technology companies at any stage of development. It provides hands-on support, mentorship, education, and physical spaces to cultivate scalable startup ventures.",
+        "website_url": "https://www.uaci.com/",
+        "contact_info": "Located in Tucson, AZ.",
+        "eligibility_criteria": "Early-stage technology companies, particularly in Edtech and General Tech.",
+        "application_deadlines": "Rolling applications; check website.",
+        "funding_amount": "Does not provide direct funding but connects to resources.",
+        "program_duration": "Long-term incubation.",
+        "location": "Tucson, AZ"
+      },
+      {
+        "name": "Center for Entrepreneurial Innovation (CEI)",
+        "description": "A comprehensive business accelerator in Phoenix providing services, space, and support for early-stage startups, with a focus on medical devices, biotech, and renewable energy innovations.",
+        "website_url": "https://www.ceigateway.com/",
+        "contact_info": "A division of the Maricopa Corporate College, Phoenix, AZ.",
+        "eligibility_criteria": "Early-stage startups in medical devices, biotech, and renewable energy.",
+        "application_deadlines": "Multi-step application process starting with an online inquiry.",
+        "funding_amount": "N/A",
+        "program_duration": "Varies.",
+        "location": "Phoenix, AZ"
+      },
+      {
+        "name": "SEED SPOT",
+        "description": "An accelerator dedicated to teaching, helping, and investing in impact-driven entrepreneurs creating solutions to social problems across various domains.",
+        "website_url": "https://seedspot.org/",
+        "contact_info": "Founded by Courtney Klein.",
+        "eligibility_criteria": "Impact-driven entrepreneurs.",
+        "application_deadlines": "Runs in cohorts; next Impact Accelerator is August 5 - September 27, 2024.",
+        "funding_amount": "Facilitates access to funding resources.",
+        "program_duration": "8-week virtual Impact Accelerator; 2-Day Launch Camp.",
+        "location": "Virtual (with roots in Arizona)"
+      },
+      {
+        "name": "ASU Venture Devils",
+        "description": "Supports entrepreneurs from Arizona State University's community (students, faculty, staff) by connecting them with Venture Mentors and providing access to funding and development spaces.",
+        "website_url": "https://entrepreneurship.asu.edu/launch/venture-devils",
+        "contact_info": "Part of ASU Entrepreneurship + Innovation.",
+        "eligibility_criteria": "ASU students, faculty, staff, and community-based entrepreneurs.",
+        "application_deadlines": "Varies.",
+        "funding_amount": "Direct access to ASU funding from $1,000 to $100,000.",
+        "program_duration": "Mentorship lasts around three months.",
+        "location": "Tempe, AZ"
+      },
+      {
+        "name": "IMPACT AZ 2025",
+        "description": "A business accelerator designed to empower minority entrepreneurs by providing comprehensive technical assistance, strengthening operating capacity, and enhancing capital readiness to attract larger contracts.",
+        "website_url": "https://impactaz2025.com/",
+        "contact_info": "N/A",
+        "eligibility_criteria": "Underserved and minority-owned businesses.",
+        "application_deadlines": "Application for 2025 cohort is open.",
+        "funding_amount": "Facilitates access to capital and contracts.",
+        "program_duration": "6 months",
+        "location": "Phoenix, AZ"
+      }
+    ],
+    "communities_networking": [
+      {
+        "name": "Arizona Small Business Development Center (AZSBDC)",
+        "description": "Provides counseling, training, and resources for small businesses across Arizona. Offers an alphabetical registry of grant programs and assistance with applications.",
+        "website_url": "https://www.azsbdc.net/",
+        "contact_info": "Multiple locations statewide.",
+        "eligibility_criteria": "Small business owners and entrepreneurs in Arizona.",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "Ongoing support",
+        "location": "Statewide"
+      },
+      {
+        "name": "Local First Arizona",
+        "description": "A non-profit organization that supports locally owned businesses and statewide economic development. Administers grant programs and provides resources for for-profit and nonprofit organizations.",
+        "website_url": "https://localfirstaz.com/",
+        "contact_info": "N/A",
+        "eligibility_criteria": "Local businesses in Arizona.",
+        "application_deadlines": "Varies by grant program.",
+        "funding_amount": "Varies.",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      },
+      {
+        "name": "Desert Angels",
+        "description": "A prominent angel investor network based in Tucson that provides early-stage funding and mentorship across various industries.",
+        "website_url": "https://www.desertangels.org/",
+        "contact_info": "Located in Tucson, AZ.",
+        "eligibility_criteria": "Early-stage startups seeking funding.",
+        "application_deadlines": "N/A",
+        "funding_amount": "Varies.",
+        "program_duration": "N/A",
+        "location": "Tucson, AZ"
+      }
+    ],
+    "legal_business_resources": [
+      {
+        "name": "Arizona Corporation Commission (ACC)",
+        "description": "The primary state agency for the legal formation of corporations and LLCs in Arizona. Provides online services for name availability checks, filing Articles of Organization/Incorporation, and name reservations.",
+        "website_url": "https://ecorp.azcc.gov",
+        "contact_info": "1300 W. Washington St., Phoenix, AZ 85007; Phone: 602-542-3026",
+        "eligibility_criteria": "Individuals or entities forming a corporation or LLC in Arizona.",
+        "application_deadlines": "N/A",
+        "funding_amount": "Filing fee for LLC is $50.",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      },
+      {
+        "name": "Arizona Business One Stop",
+        "description": "A single online portal with personalized tools to help plan, start, manage, and grow a business in Arizona. Provides a personalized checklist for trademarks, taxes, licenses, and permits.",
+        "website_url": "https://businessonestop.az.gov/",
+        "contact_info": "Phone: 877-655-4325",
+        "eligibility_criteria": "All businesses operating in Arizona.",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      },
+      {
+        "name": "Arizona Secretary of State - Trade Name/Trademark Registration",
+        "description": "Handles the registration of trade names (DBAs) and state-level trademarks.",
+        "website_url": "https://azsos.gov/business/trademarks-trade-names",
+        "contact_info": "1700 W. Washington Street, Suite 103, Phoenix, AZ 85007; Phone: 602-542-6187",
+        "eligibility_criteria": "Businesses seeking to register a trade name or trademark in Arizona.",
+        "application_deadlines": "N/A",
+        "funding_amount": "Varies by filing type.",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      }
+    ],
+    "university_programs": [
+      {
+        "name": "University of Arizona - McGuire Center for Entrepreneurship",
+        "description": "A nationally-ranked center within the Eller College of Management that serves as a catalyst for innovation. Its flagship New Venture Development Program is a year-long, hands-on curriculum open to all UA students.",
+        "website_url": "https://eller.arizona.edu/departments-research/centers-labs/mcguire-entrepreneurship",
+        "contact_info": "McClelland Hall, 1130 E. Helen St., Tucson, AZ 85721; Phone: 520-621-2576; Email: entre.net@eller.arizona.edu",
+        "eligibility_criteria": "University of Arizona undergraduate and graduate students from any field of study.",
+        "application_deadlines": "Competitive admission process for programs.",
+        "funding_amount": "Hosts competitions with funding prizes.",
+        "program_duration": "Year-long for New Venture Development Program.",
+        "location": "Tucson, AZ"
+      },
+      {
+        "name": "Arizona State University (ASU) Entrepreneurship + Innovation",
+        "description": "A comprehensive ecosystem offering numerous programs like Venture Devils, ScaleU, and the MedTech Accelerator. Provides mentorship, funding opportunities, and resources to ASU students, faculty, staff, and community members.",
+        "website_url": "https://entrepreneurship.asu.edu/",
+        "contact_info": "Located at ASU, Tempe, AZ.",
+        "eligibility_criteria": "ASU community and external entrepreneurs, depending on the program.",
+        "application_deadlines": "Varies by program.",
+        "funding_amount": "Varies significantly by program (e.g., Venture Devils offers $1k-$100k).",
+        "program_duration": "Varies.",
+        "location": "Tempe, AZ"
+      },
+      {
+        "name": "Student-Made Arizona (University of Arizona)",
+        "description": "An online marketplace and support system for University of Arizona student entrepreneurs to sell their products. Provides support in marketing, shipping, finances, and strategy.",
+        "website_url": "https://www.studentmadestore.com/pages/arizona",
+        "contact_info": "Housed within the College of Fine Arts.",
+        "eligibility_criteria": "University of Arizona students.",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "Ongoing platform.",
+        "location": "Tucson, AZ"
+      }
+    ],
+    "startup_ecosystems": [
+      {
+        "name": "Phoenix Metropolitan Area (including Tempe and Scottsdale)",
+        "description": "A major hub for startups in Arizona, supported by ASU's extensive programs, the Center for Entrepreneurial Innovation (CEI), and numerous venture capital firms and angel networks. Strong in sectors like SaaS, fintech, and renewable energy.",
+        "website_url": "N/A",
+        "contact_info": "N/A",
+        "eligibility_criteria": "N/A",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "N/A",
+        "location": "Phoenix, AZ"
+      },
+      {
+        "name": "Tucson Tech and Biotech Corridor",
+        "description": "A growing ecosystem anchored by the University of Arizona and its Center for Innovation (UACI). Strong focus on technology, life sciences, and optics, with support from angel groups like Desert Angels.",
+        "website_url": "N/A",
+        "contact_info": "N/A",
+        "eligibility_criteria": "N/A",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "N/A",
+        "location": "Tucson, AZ"
+      }
+    ]
+  },
+  {
+    "state_name": "Arkansas",
+    "state_code": "AR",
+    "funding_programs": [
+      {
+        "name": "ARise: Arkansas Innovators, Startups, and Entrepreneurs",
+        "description": "A major state initiative funded by AEDC and led by Startup Junkie to empower tech and tech-enabled ventures. Offers no-cost consulting, capital access navigation, an expert network, and industry connections to help startups scale.",
+        "website_url": "http://www.ARiseArkansas.org",
+        "contact_info": "Led by Startup Junkie and Conductor.",
+        "eligibility_criteria": "Arkansas-based, scalable tech and tech-enabled ventures.",
+        "application_deadlines": "Rolling enrollment via an onboarding application.",
+        "funding_amount": "Does not provide direct funding but offers capital access navigation and connects to investors.",
+        "program_duration": "Ongoing support",
+        "location": "Statewide"
+      },
+      {
+        "name": "Arkansas Economic Development Commission (AEDC) - Small Business Funding",
+        "description": "The AEDC serves as a central hub for small business funding, assisting with access to federal SBIR grants, supporting technology development, and facilitating seed capital investments.",
+        "website_url": "https://www.arkansasedc.com/business-resources/small-business-entrepreneurship-development/small-business-funding",
+        "contact_info": "Director of Small Business and Entrepreneurship Development Division: Esperanza Massana Crane.",
+        "eligibility_criteria": "Varies by specific program; generally for Arkansas-based small businesses and startups.",
+        "application_deadlines": "Varies.",
+        "funding_amount": "Varies.",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      }
+    ],
+    "accelerators_incubators": [
+      {
+        "name": "The Venture Center",
+        "description": "A non-profit organization in Central Arkansas running award-winning accelerator programs, particularly in the FinTech sector. Focuses on validating solutions and enhancing go-to-market strategies through collaboration with industry experts.",
+        "website_url": "https://www.venturecenter.co/",
+        "contact_info": "Founder: Lee Watson. Located in Little Rock, AR.",
+        "eligibility_criteria": "Primarily FinTech startups, but also supports Education and Technology. Programs like Spark are for local business owners.",
+        "application_deadlines": "Varies by cohort; check website for application periods.",
+        "funding_amount": "Facilitates connections to investors.",
+        "program_duration": "10-13 weeks",
+        "location": "Little Rock, AR"
+      },
+      {
+        "name": "Fuel Accelerator",
+        "description": "An enterprise-ready accelerator managed by Startup Junkie for growth-stage technology companies. The 12-week program matches startups with enterprise partners to expedite technology adoption.",
+        "website_url": "https://www.fuelaccelerator.com/",
+        "contact_info": "Managed by Startup Junkie.",
+        "eligibility_criteria": "Growth-stage tech startups in CPG, Supply Chain, HRtech, AdTech, AgTech, AI/ML, HealthTech, and more.",
+        "application_deadlines": "Runs in cohorts; check website.",
+        "funding_amount": "N/A",
+        "program_duration": "12 weeks",
+        "location": "Northwest Arkansas"
+      },
+      {
+        "name": "HealthTech Arkansas",
+        "description": "A healthcare accelerator and early-stage investment fund connecting early-stage healthcare companies with local providers. Guarantees pilot projects and provides upfront investment capital.",
+        "website_url": "https://healthtecharkansas.com/",
+        "contact_info": "N/A",
+        "eligibility_criteria": "Early-stage companies in digital health, connected medical devices, and diagnostic platforms.",
+        "application_deadlines": "Varies.",
+        "funding_amount": "Guaranteed upfront investment capital via SAFE or convertible notes.",
+        "program_duration": "Virtual accelerator model.",
+        "location": "Statewide"
+      },
+      {
+        "name": "Conductor",
+        "description": "A public-private partnership between the University of Central Arkansas and Startup Junkie that accelerates innovation and entrepreneurship in Central Arkansas. Supports early-stage startups with resources, mentorship, and networking.",
+        "website_url": "https://www.arconductor.org/",
+        "contact_info": "Located in Conway, AR.",
+        "eligibility_criteria": "Early-stage startups across diverse sectors.",
+        "application_deadlines": "Varies.",
+        "funding_amount": "Connects startups to investors.",
+        "program_duration": "Varies; includes a 20-week accelerator program.",
+        "location": "Conway, AR"
+      },
+      {
+        "name": "University of Arkansas - Bounds Accelerator",
+        "description": "An accelerator run by the U of A Office of Entrepreneurship & Innovation focusing on emerging technologies like blockchain, AI, AR, and VR to foster digital transformation.",
+        "website_url": "https://entrepreneurship.uark.edu/programs/bounds-accelerator.php",
+        "contact_info": "Part of the University of Arkansas.",
+        "eligibility_criteria": "Startups leveraging emerging technologies.",
+        "application_deadlines": "Application Deadline: November 16. Interviews: November 18-30. Cohort Kickoff: January 11, 2024.",
+        "funding_amount": "Participants compete for a non-dilutive cash award at Demo Day.",
+        "program_duration": "Approx. 15 weeks (Jan-Apr).",
+        "location": "Fayetteville, AR"
+      }
+    ],
+    "communities_networking": [
+      {
+        "name": "Arkansas Business Resource Hub",
+        "description": "A free, centralized, statewide online platform listing organizations that assist entrepreneurs and small business owners. Includes a learning center, events calendar, and searchable database.",
+        "website_url": "http://www.ARBusinessResourceHub.com",
+        "contact_info": "Managed by the University of Arkansas Office of Entrepreneurship and Innovation.",
+        "eligibility_criteria": "Open to all Arkansas entrepreneurs, small business owners, and Entrepreneurial Support Organizations (ESOs).",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "Ongoing platform",
+        "location": "Statewide"
+      },
+      {
+        "name": "Startup Junkie",
+        "description": "A key entrepreneurial support organization in Arkansas that provides consulting, mentorship, and events. Manages programs like Fuel Accelerator and is a lead partner in the ARise initiative.",
+        "website_url": "https://www.startupjunkie.org/",
+        "contact_info": "Located in Fayetteville, AR.",
+        "eligibility_criteria": "Entrepreneurs and startups, particularly in Northwest Arkansas.",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "Ongoing support and events.",
+        "location": "Fayetteville, AR"
+      },
+      {
+        "name": "Arkansas Small Business and Technology Development Center (ASBTDC)",
+        "description": "Offers resources and guidance on developing business plans and securing financing for new and existing businesses.",
+        "website_url": "http://asbtdc.org/",
+        "contact_info": "Multiple locations across the state.",
+        "eligibility_criteria": "Small business owners and entrepreneurs in Arkansas.",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "Ongoing support",
+        "location": "Statewide"
+      }
+    ],
+    "legal_business_resources": [
+      {
+        "name": "Arkansas Secretary of State (SOS) - Business & Commercial Services",
+        "description": "The primary state agency for business formation. Handles the filing of Articles of Organization (for LLCs) and Articles of Incorporation (for corporations). Provides online services for name availability searches and filings.",
+        "website_url": "https://www.sos.arkansas.gov/business-commercial-services-bcs/for-new-business",
+        "contact_info": "N/A",
+        "eligibility_criteria": "Individuals or entities forming a business in Arkansas.",
+        "application_deadlines": "N/A",
+        "funding_amount": "Filing fees apply (e.g., $45 online for LLC).",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      },
+      {
+        "name": "Arkansas Department of Finance and Administration (DFA)",
+        "description": "Oversees state tax obligations, including corporate income tax, sales and use tax, and employer withholding tax. Businesses must register with the DFA via the Combined Business Tax Registration Form.",
+        "website_url": "https://www.dfa.arkansas.gov/",
+        "contact_info": "1509 West 7th Street, Little Rock, AR 72201; Phone: 501-682-7000",
+        "eligibility_criteria": "All businesses operating in Arkansas.",
+        "application_deadlines": "Varies by tax type. Annual franchise tax is due by May 1st.",
+        "funding_amount": "N/A",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      }
+    ],
+    "university_programs": [
+      {
+        "name": "University of Arkansas - Office of Entrepreneurship & Innovation (OEI)",
+        "description": "A nationally-ranked hub for entrepreneurial activity at the U of A, providing business incubation, experiential learning, mentorship, and funding opportunities like the Seed Funding pitch competition and the global Heartland Challenge.",
+        "website_url": "https://entrepreneurship.uark.edu/",
+        "contact_info": "123 W. Mountain Street, Fayetteville, AR; Phone: 479-575-7347; Email: oei@uark.edu",
+        "eligibility_criteria": "U of A students, faculty, and people in Arkansas who want to be innovators or build new ventures.",
+        "application_deadlines": "Varies by program.",
+        "funding_amount": "Varies by competition.",
+        "program_duration": "Varies.",
+        "location": "Fayetteville, AR"
+      },
+      {
+        "name": "University of Arkansas - Department of Strategy, Entrepreneurship and Venture Innovation (SEVI)",
+        "description": "Housed in the Sam M. Walton College of Business, this department offers a wide array of academic programs, including an undergraduate major, minors, a Master of Science in Product Innovation, and a PhD program.",
+        "website_url": "https://walton.uark.edu/departments/sevi/",
+        "contact_info": "Located in the Sam M. Walton College of Business.",
+        "eligibility_criteria": "U of A students at undergraduate, graduate, and doctoral levels.",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "Varies by degree/certificate.",
+        "location": "Fayetteville, AR"
+      },
+      {
+        "name": "University of Arkansas Cooperative Extension Service - Business & Entrepreneurship",
+        "description": "Provides educational programs and resources to help businesses and entrepreneurs, particularly in rural areas, with topics like starting a business, tax schools, food entrepreneurship, and government contracting.",
+        "website_url": "https://www.uaex.uada.edu/business-communities/business-entrepreneurship/",
+        "contact_info": "Email: smccullough@uada.edu; Phone: (501) 671-2078",
+        "eligibility_criteria": "Businesses, entrepreneurs, and community leaders across Arkansas.",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "Ongoing support.",
+        "location": "Statewide"
+      }
+    ],
+    "startup_ecosystems": [
+      {
+        "name": "Northwest Arkansas (NWA) Tech and CPG Hub",
+        "description": "A vibrant and rapidly growing ecosystem, particularly strong in technology, retail, consumer packaged goods (CPG), and supply chain innovation. Anchored by the University of Arkansas, Startup Junkie, and major corporate partners. Home to accelerators like Fuel and numerous networking events.",
+        "website_url": "N/A",
+        "contact_info": "N/A",
+        "eligibility_criteria": "N/A",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "N/A",
+        "location": "Fayetteville, Bentonville, Springdale, Rogers, AR"
+      },
+      {
+        "name": "Central Arkansas FinTech and Healthcare Innovation",
+        "description": "An emerging ecosystem with a strong focus on Financial Technology (FinTech) and Healthcare Technology. Driven by The Venture Center's accelerators, HealthTech Arkansas, and the Conductor partnership in Conway. Benefits from proximity to state government and financial institutions in Little Rock.",
+        "website_url": "N/A",
+        "contact_info": "N/A",
+        "eligibility_criteria": "N/A",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "N/A",
+        "location": "Little Rock, Conway, AR"
+      }
+    ]
+  },
+  {
+    "state_name": "California",
+    "state_code": "CA",
+    "funding_programs": [
+      {
+        "name": "California Grants Portal",
+        "description": "The primary, centralized online destination for all competitive or first-come funding opportunities from California state agencies. A project of the California State Library.",
+        "website_url": "https://www.grants.ca.gov/",
+        "contact_info": "Managed by the California State Library.",
+        "eligibility_criteria": "Varies by grant. Applicant types include Business, Individual, Nonprofit, Public Agency, and Tribal Government.",
+        "application_deadlines": "Varies by grant; the portal is continuously updated.",
+        "funding_amount": "Varies significantly. As of a 2025 snapshot, the portal listed $16 Billion in available funding across 155 opportunities.",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      },
+      {
+        "name": "State Small Business Credit Initiative (SSBCI)",
+        "description": "A federal program from which California received $1.1 billion. The funding is projected to mobilize an estimated $18 billion of capital for small businesses, often targeting underserved communities.",
+        "website_url": "https://calosba.ca.gov/ssbci/",
+        "contact_info": "Administered in part by CalOSBA and partners like Lendistry.",
+        "eligibility_criteria": "Small businesses in California, with a focus on those in underserved communities.",
+        "application_deadlines": "Varies by specific program/lender.",
+        "funding_amount": "$1.1 billion federal allocation.",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      },
+      {
+        "name": "California Office of the Small Business Advocate (CalOSBA) Grants",
+        "description": "CalOSBA administers various grant programs for small businesses and non-profits. These opportunities are also listed on the California Grants Portal.",
+        "website_url": "https://calosba.ca.gov/for-small-businesses-and-non-profits/funding-opportunities-for-small-businesses-and-nonprofits/",
+        "contact_info": "N/A",
+        "eligibility_criteria": "Varies by specific grant program.",
+        "application_deadlines": "Varies.",
+        "funding_amount": "Varies.",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      },
+      {
+        "name": "Military Entrepreneur Challenge (MEC)",
+        "description": "An annual pitch competition series by the Second Service Foundation for military-affiliated entrepreneurs, offering capital grants and resources.",
+        "website_url": "https://secondservicefoundation.org/military-entrepreneur-challenge/",
+        "contact_info": "Administered by Second Service Foundation.",
+        "eligibility_criteria": "Military veterans, active-duty service members, military spouses, or Gold Star family members who own at least 51% of a legally registered U.S. business.",
+        "application_deadlines": "Deadlines are set with events.",
+        "funding_amount": "$1,000–$15,000",
+        "program_duration": "Annual competition",
+        "location": "Nationwide (including California)"
+      }
+    ],
+    "accelerators_incubators": [
+      {
+        "name": "Y Combinator",
+        "description": "One of the world's most renowned and influential startup accelerators, known for its intensive mentoring, vast network, and significant investment in early-stage companies.",
+        "website_url": "https://www.ycombinator.com/",
+        "contact_info": "Located in Silicon Valley/San Francisco.",
+        "eligibility_criteria": "Early-stage startups with high growth potential across various sectors.",
+        "application_deadlines": "Runs in bi-annual batches (Winter and Summer).",
+        "funding_amount": "$500,000 standard deal.",
+        "program_duration": "3 months",
+        "location": "Mountain View, CA"
+      },
+      {
+        "name": "500 Startups (500 Global)",
+        "description": "An influential global venture capital firm and accelerator with a large portfolio, focusing on diverse domains and helping startups achieve global growth.",
+        "website_url": "https://500.co/",
+        "contact_info": "Located in San Francisco, CA.",
+        "eligibility_criteria": "Early-stage startups with global potential.",
+        "application_deadlines": "Varies by program.",
+        "funding_amount": "Varies.",
+        "program_duration": "Varies.",
+        "location": "San Francisco, CA"
+      },
+      {
+        "name": "Alchemist Accelerator",
+        "description": "An accelerator exclusively for startups whose revenue comes from enterprises (B2B), not consumers. Provides funding, a structured program, and access to a deep network of enterprise customers and investors.",
+        "website_url": "https://www.alchemistaccelerator.com/",
+        "contact_info": "Located in San Francisco/Silicon Valley.",
+        "eligibility_criteria": "Enterprise (B2B) startups.",
+        "application_deadlines": "Runs in cohorts; check website.",
+        "funding_amount": "$25,000 in funding.",
+        "program_duration": "6 months",
+        "location": "San Francisco, CA"
+      },
+      {
+        "name": "Berkeley SkyDeck",
+        "description": "A top global accelerator formed as a partnership between UC Berkeley's Haas School of Business, College of Engineering, and the Office of the Vice Chancellor for Research. Supports startups founded by students, alumni, and faculty.",
+        "website_url": "https://skydeck.berkeley.edu/",
+        "contact_info": "Located in Berkeley, CA.",
+        "eligibility_criteria": "Startups with a strong connection to any of the 10 University of California campuses or their affiliated labs.",
+        "application_deadlines": "Runs in cohorts.",
+        "funding_amount": "Access to the SkyDeck Fund.",
+        "program_duration": "Varies.",
+        "location": "Berkeley, CA"
+      },
+      {
+        "name": "Techstars LA",
+        "description": "A prominent accelerator program in Los Angeles that integrates startups into the local ecosystem, connecting them with world-class mentors, investors, and corporate partners.",
+        "website_url": "https://www.techstars.com/accelerators/los-angeles",
+        "contact_info": "N/A",
+        "eligibility_criteria": "Early-stage startups across various tech sectors.",
+        "application_deadlines": "Runs in cohorts.",
+        "funding_amount": "Provides investment in exchange for equity.",
+        "program_duration": "3 months",
+        "location": "Los Angeles, CA"
+      }
+    ],
+    "communities_networking": [
+      {
+        "name": "California Association for Micro Enterprise Opportunity (CAMEO)",
+        "description": "A statewide network of organizations dedicated to supporting micro-business development. Provides business advisory services, training, and advocacy to foster local economic growth.",
+        "website_url": "https://cameonetwork.org/",
+        "contact_info": "N/A",
+        "eligibility_criteria": "Micro-business owners and the organizations that support them.",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "Ongoing support",
+        "location": "Statewide"
+      },
+      {
+        "name": "California Infrastructure and Economic Development Bank (IBank)",
+        "description": "Offers programs like the Venture Capital Program to enhance access to capital for emerging enterprises. Provides financial support for businesses looking to scale or manage cash flow.",
+        "website_url": "https://www.ibank.ca.gov/",
+        "contact_info": "N/A",
+        "eligibility_criteria": "Varies by program.",
+        "application_deadlines": "Varies.",
+        "funding_amount": "Varies.",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      }
+    ],
+    "legal_business_resources": [
+      {
+        "name": "California Secretary of State (SOS) - Business Programs",
+        "description": "The primary state agency for registering business entities (LLCs, Corporations, etc.). Provides online services for forming a business, filing Statements of Information, conducting business searches, and reserving names.",
+        "website_url": "https://www.sos.ca.gov/business-programs",
+        "contact_info": "Phone: (916) 653-6814",
+        "eligibility_criteria": "Any individual or entity seeking to form or register a business in California.",
+        "application_deadlines": "N/A",
+        "funding_amount": "Filing fees apply.",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      },
+      {
+        "name": "California Office of the Small Business Advocate (CalOSBA) - Business Setup",
+        "description": "Provides a detailed portal of resources for starting, managing, and growing a small business, including guidance on permits, licenses, and legal structures.",
+        "website_url": "https://calosba.ca.gov/for-small-businesses-and-non-profits/set-up-your-business-in-california/",
+        "contact_info": "N/A",
+        "eligibility_criteria": "Small business owners and entrepreneurs in California.",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      },
+      {
+        "name": "California Department of Industrial Relations (DIR) - Small Business Resources",
+        "description": "Provides resources and assistance for small businesses on employer responsibilities, including labor laws, workplace safety (Cal/OSHA), and workers’ compensation insurance.",
+        "website_url": "https://www.dir.ca.gov/SmallBusiness/start-a-small-business.htm",
+        "contact_info": "N/A",
+        "eligibility_criteria": "Businesses with employees in California.",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      }
+    ],
+    "university_programs": [
+      {
+        "name": "University of California, Berkeley - Entrepreneurship Ecosystem",
+        "description": "A top-ranked, deep, and interconnected ecosystem providing comprehensive support for innovators. Includes the Berkeley Haas Entrepreneurship Program, SkyDeck accelerator, LAUNCH accelerator, Sutardja Center, and Bakar Labs incubator.",
+        "website_url": "https://www.berkeley.edu/entrepreneurship/",
+        "contact_info": "Located in Berkeley, CA.",
+        "eligibility_criteria": "UC Berkeley students, faculty, researchers, alumni, and other innovators.",
+        "application_deadlines": "Varies by program.",
+        "funding_amount": "Multiple funding sources available, including the Berkeley SkyDeck Fund and the Berkeley-Haas Startup Seed Fund.",
+        "program_duration": "Varies.",
+        "location": "Berkeley, CA"
+      },
+      {
+        "name": "University of California, Los Angeles (UCLA) - Entrepreneurship Ecosystem",
+        "description": "A major hub for innovation with extensive resources, including The Venture Accelerator at UCLA Anderson, Magnify Incubator, UCLA Health TechQuity Accelerator, and the Price Center for Entrepreneurship & Innovation.",
+        "website_url": "https://www.ucla.edu/academics/support/entrepreneurship",
+        "contact_info": "Located in Los Angeles, CA.",
+        "eligibility_criteria": "Serves the entire UCLA community, including students, faculty, staff, and alumni.",
+        "application_deadlines": "Varies by program.",
+        "funding_amount": "Varies.",
+        "program_duration": "Varies.",
+        "location": "Los Angeles, CA"
+      },
+      {
+        "name": "LAUNCH Accelerator (University of California)",
+        "description": "The University of California’s leading accelerator, designed to transform early-stage startups from UC Berkeley and UC San Francisco into fundable companies. Takes 0% equity.",
+        "website_url": "https://www.launchbayarea.org/",
+        "contact_info": "A partnership between UC Berkeley and UCSF.",
+        "eligibility_criteria": "Early-stage startups from the UC ecosystem.",
+        "application_deadlines": "Runs in cohorts.",
+        "funding_amount": "Helps companies become fundable; over $1.1B raised by alumni.",
+        "program_duration": "Varies.",
+        "location": "Berkeley/San Francisco, CA"
+      }
+    ],
+    "startup_ecosystems": [
+      {
+        "name": "Silicon Valley / San Francisco Bay Area",
+        "description": "The world's preeminent hub for technology startups and venture capital. Home to giants like Apple and Google, and accelerators like Y Combinator. Leads in AI, SaaS, and biotech innovation. Notable alumni from its programs include Airbnb, Dropbox, Stripe, and OpenAI.",
+        "website_url": "N/A",
+        "contact_info": "N/A",
+        "eligibility_criteria": "N/A",
+        "application_deadlines": "N/A",
+        "funding_amount": "Receives the largest share of US startup funding.",
+        "program_duration": "N/A",
+        "location": "San Francisco, Mountain View, Palo Alto, Berkeley, CA"
+      },
+      {
+        "name": "Los Angeles (Silicon Beach)",
+        "description": "A major and growing startup ecosystem with strengths in media, entertainment, e-commerce, and aerospace. Supported by UCLA's programs and accelerators like Techstars LA and MuckerLab.",
+        "website_url": "N/A",
+        "contact_info": "N/A",
+        "eligibility_criteria": "N/A",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "N/A",
+        "location": "Los Angeles, Santa Monica, Venice, CA"
+      },
+      {
+        "name": "San Diego",
+        "description": "A strong hub for life sciences, biotech, telecommunications, and defense tech. Supported by UC San Diego and a robust network of research institutions and venture capital.",
+        "website_url": "N/A",
+        "contact_info": "N/A",
+        "eligibility_criteria": "N/A",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "N/A",
+        "location": "San Diego, CA"
+      }
+    ]
+  },
+  {
+    "state_name": "Colorado",
+    "state_code": "CO",
+    "funding_programs": [
+      {
+        "name": "Colorado Startup Loan Fund (CSLF)",
+        "description": "A revolving loan fund providing capital through mission-based lenders to Colorado entrepreneurs and small business owners who may struggle to obtain financing from traditional sources.",
+        "website_url": "https://oedit.colorado.gov/colorado-startup-loan-fund",
+        "contact_info": "Administered by the Colorado Office of Economic Development and International Trade (OEDIT) through partner lenders.",
+        "eligibility_criteria": "For-profit businesses in Colorado with 25 or fewer FTE employees, no more than $2 million in gross annual revenues, and unable to obtain traditional financing.",
+        "application_deadlines": "Rolling basis through March 2032.",
+        "funding_amount": "Loans from $10,000 to $150,000.",
+        "program_duration": "Repayment terms up to 10 years.",
+        "location": "Statewide"
+      },
+      {
+        "name": "Startup Colorado’s Entrepreneur Grant Program",
+        "description": "Offers grants to support rural startup founders and small business owners in accessing technical assistance opportunities that drive success.",
+        "website_url": "https://startupcolorado.org/",
+        "contact_info": "Administered by Startup Colorado.",
+        "eligibility_criteria": "Rural startup founders and small business owners in Colorado.",
+        "application_deadlines": "Varies.",
+        "funding_amount": "Up to $5,000",
+        "program_duration": "N/A",
+        "location": "Rural Colorado"
+      },
+      {
+        "name": "Advanced Industries Early-Stage Capital and Retention Grant",
+        "description": "A grant designed to bolster companies in Colorado's advanced industries, including natural resources, agriculture, aerospace, bioscience, and electronics, by aiding in early-stage capital investment.",
+        "website_url": "https://oedit.colorado.gov/advanced-industries-grant-programs",
+        "contact_info": "Administered by OEDIT.",
+        "eligibility_criteria": "Companies operating in Colorado's designated advanced industries.",
+        "application_deadlines": "Varies.",
+        "funding_amount": "Varies.",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      },
+      {
+        "name": "Rural Jump-Start Program",
+        "description": "An OEDIT initiative offering tax relief incentives to new businesses and new hires that locate in economically distressed rural counties.",
+        "website_url": "https://oedit.colorado.gov/rural-jump-start-program",
+        "contact_info": "Administered by OEDIT.",
+        "eligibility_criteria": "New businesses setting up in designated rural 'jump-start' zones.",
+        "application_deadlines": "Varies.",
+        "funding_amount": "Tax relief and credits.",
+        "program_duration": "N/A",
+        "location": "Rural Colorado"
+      }
+    ],
+    "accelerators_incubators": [
+      {
+        "name": "Techstars Boulder",
+        "description": "One of the original and most prestigious accelerator programs in the Techstars network, providing capital, mentorship, and connections to early-stage technology startups.",
+        "website_url": "https://www.techstars.com/accelerators/boulder",
+        "contact_info": "N/A",
+        "eligibility_criteria": "Early-stage technology startups.",
+        "application_deadlines": "Runs in cohorts.",
+        "funding_amount": "Provides investment in exchange for equity.",
+        "program_duration": "3 months",
+        "location": "Boulder, CO"
+      },
+      {
+        "name": "Boomtown Accelerators",
+        "description": "A Boulder-based accelerator that provides seed funding, mentorship, and a customized curriculum to help startups refine their business models and gain market traction.",
+        "website_url": "https://www.boomtownaccelerators.com/",
+        "contact_info": "N/A",
+        "eligibility_criteria": "Early-stage startups in various sectors.",
+        "application_deadlines": "Runs in cohorts.",
+        "funding_amount": "Provides seed funding.",
+        "program_duration": "Varies.",
+        "location": "Boulder, CO"
+      },
+      {
+        "name": "Innosphere Ventures",
+        "description": "A science and technology incubator that accelerates the success of startups and scaleups. Provides commercialization and capital assistance, and operates a venture capital fund.",
+        "website_url": "https://innosphereventures.org/",
+        "contact_info": "N/A",
+        "eligibility_criteria": "Science and technology-based startups and scaleups.",
+        "application_deadlines": "Varies.",
+        "funding_amount": "Operates a venture capital fund.",
+        "program_duration": "Varies.",
+        "location": "Fort Collins, Boulder, Denver, CO"
+      }
+    ],
+    "communities_networking": [
+      {
+        "name": "Colorado Small Business Development Center (SBDC) Network",
+        "description": "A statewide organization offering a comprehensive suite of business services, including free confidential one-on-one business advising, training workshops, and access to resources.",
+        "website_url": "https://www.coloradosbdc.org/",
+        "contact_info": "Multiple locations across the state.",
+        "eligibility_criteria": "Entrepreneurs and small business owners in Colorado.",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "Ongoing support",
+        "location": "Statewide"
+      },
+      {
+        "name": "Small Business Navigator",
+        "description": "A first point of contact for Colorado entrepreneurs and small-business owners needing support. Fluent in English and Spanish, with interpretation services available.",
+        "website_url": "https://oedit.colorado.gov/small-business-navigator",
+        "contact_info": "Part of OEDIT.",
+        "eligibility_criteria": "All entrepreneurs and small business owners in Colorado.",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "Ongoing support",
+        "location": "Statewide"
+      }
+    ],
+    "legal_business_resources": [
+      {
+        "name": "Colorado Secretary of State - Business Center",
+        "description": "The primary state agency for business registration. Provides online services to file formation documents, search for business names, and manage business filings.",
+        "website_url": "https://www.coloradosos.gov/biz/BusinessHome.do",
+        "contact_info": "N/A",
+        "eligibility_criteria": "Individuals or entities forming a business in Colorado.",
+        "application_deadlines": "N/A",
+        "funding_amount": "Filing fees apply.",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      }
+    ],
+    "university_programs": [],
+    "startup_ecosystems": [
+      {
+        "name": "Boulder-Denver Tech Corridor",
+        "description": "A nationally recognized hub for technology startups, venture capital, and innovation. Anchored by the University of Colorado Boulder and home to accelerators like Techstars. Strong in software, aerospace, natural foods, and cleantech.",
+        "website_url": "N/A",
+        "contact_info": "N/A",
+        "eligibility_criteria": "N/A",
+        "application_deadlines": "N/A",
+        "funding_amount": "N/A",
+        "program_duration": "N/A",
+        "location": "Boulder, Denver, CO"
+      }
+    ]
+  },
+  {
+    "state_name": "Connecticut",
+    "state_code": "CT",
+    "funding_programs": [
+      {
+        "name": "Connecticut Innovations (CI)",
+        "description": "Connecticut's strategic venture capital arm and the leading source of financing and ongoing support for innovative, growing companies. Manages several funds and programs to support startups.",
+        "website_url": "https://ctinnovations.com/",
+        "contact_info": "N/A",
+        "eligibility_criteria": "Varies by fund; generally targets high-tech, innovative companies in Connecticut.",
+        "application_deadlines": "Varies.",
+        "funding_amount": "Varies from pre-seed to venture-level investments.",
+        "program_duration": "N/A",
+        "location": "Statewide"
+      }
+    ],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Delaware",
+    "state_code": "DE",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Florida",
+    "state_code": "FL",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Georgia",
+    "state_code": "GA",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Hawaii",
+    "state_code": "HI",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Idaho",
+    "state_code": "ID",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Illinois",
+    "state_code": "IL",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Indiana",
+    "state_code": "IN",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Iowa",
+    "state_code": "IA",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Kansas",
+    "state_code": "KS",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Kentucky",
+    "state_code": "KY",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Louisiana",
+    "state_code": "LA",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Maine",
+    "state_code": "ME",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Maryland",
+    "state_code": "MD",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Massachusetts",
+    "state_code": "MA",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Michigan",
+    "state_code": "MI",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Minnesota",
+    "state_code": "MN",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Mississippi",
+    "state_code": "MS",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Missouri",
+    "state_code": "MO",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Montana",
+    "state_code": "MT",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Nebraska",
+    "state_code": "NE",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Nevada",
+    "state_code": "NV",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "New Hampshire",
+    "state_code": "NH",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "New Jersey",
+    "state_code": "NJ",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "New Mexico",
+    "state_code": "NM",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "New York",
+    "state_code": "NY",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "North Carolina",
+    "state_code": "NC",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "North Dakota",
+    "state_code": "ND",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Ohio",
+    "state_code": "OH",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Oklahoma",
+    "state_code": "OK",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Oregon",
+    "state_code": "OR",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Pennsylvania",
+    "state_code": "PA",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Rhode Island",
+    "state_code": "RI",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "South Carolina",
+    "state_code": "SC",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "South Dakota",
+    "state_code": "SD",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Tennessee",
+    "state_code": "TN",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Texas",
+    "state_code": "TX",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Utah",
+    "state_code": "UT",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Vermont",
+    "state_code": "VT",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Virginia",
+    "state_code": "VA",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Washington",
+    "state_code": "WA",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Washington DC",
+    "state_code": "DC",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "West Virginia",
+    "state_code": "WV",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Wisconsin",
+    "state_code": "WI",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  },
+  {
+    "state_name": "Wyoming",
+    "state_code": "WY",
+    "funding_programs": [],
+    "accelerators_incubators": [],
+    "communities_networking": [],
+    "legal_business_resources": [],
+    "university_programs": [],
+    "startup_ecosystems": []
+  }
+]
