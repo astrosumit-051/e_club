@@ -1,0 +1,165 @@
+
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+    provider = "prisma-client-js"
+    binaryTargets = ["native", "linux-musl-arm64-openssl-3.0.x"]
+    output = "/home/ubuntu/entrepreneurship_lms/app/node_modules/.prisma/client"
+}
+
+datasource db {
+    provider = "postgresql"
+    url      = env("DATABASE_URL")
+}
+
+model Account {
+  id                String  @id @default(cuid())
+  userId            String
+  type              String
+  provider          String
+  providerAccountId String
+  refresh_token     String? @db.Text
+  access_token      String? @db.Text
+  expires_at        Int?
+  token_type        String?
+  scope             String?
+  id_token          String? @db.Text
+  session_state     String?
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([provider, providerAccountId])
+}
+
+model Session {
+  id           String   @id @default(cuid())
+  sessionToken String   @unique
+  userId       String
+  expires      DateTime
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model User {
+  id            String    @id @default(cuid())
+  name          String?
+  email         String    @unique
+  password      String?
+  emailVerified DateTime?
+  image         String?
+  accounts      Account[]
+  sessions      Session[]
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+
+  // Course Progress
+  weekProgress       WeekProgress[]
+  achievements       UserAchievement[]
+  forumPosts         ForumPost[]
+  forumReplies       ForumReply[]
+  ideaBoardPosts     IdeaBoardPost[]
+  
+  // Profile fields
+  university         String?
+  major             String?
+  graduationYear    Int?
+  bio               String?
+  linkedinUrl       String?
+  githubUrl         String?
+  
+  @@map(name: "users")
+}
+
+model VerificationToken {
+  identifier String
+  token      String   @unique
+  expires    DateTime
+
+  @@unique([identifier, token])
+}
+
+model WeekProgress {
+  id          String   @id @default(cuid())
+  userId      String
+  weekNumber  Int
+  isCompleted Boolean  @default(false)
+  completedAt DateTime?
+  progress    Float    @default(0) // 0-100 percentage
+  
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  
+  @@unique([userId, weekNumber])
+}
+
+model Achievement {
+  id          String   @id @default(cuid())
+  name        String
+  description String
+  iconName    String   // lucide icon name
+  category    String   // "discovery", "innovation", "business", "leadership", "impact"
+  points      Int      @default(0)
+  
+  userAchievements UserAchievement[]
+}
+
+model UserAchievement {
+  id            String   @id @default(cuid())
+  userId        String
+  achievementId String
+  earnedAt      DateTime @default(now())
+  
+  user          User        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  achievement   Achievement @relation(fields: [achievementId], references: [id], onDelete: Cascade)
+  
+  @@unique([userId, achievementId])
+}
+
+model ForumCategory {
+  id          String      @id @default(cuid())
+  name        String
+  description String?
+  iconName    String
+  order       Int         @default(0)
+  
+  posts       ForumPost[]
+}
+
+model ForumPost {
+  id          String        @id @default(cuid())
+  title       String
+  content     String        @db.Text
+  authorId    String
+  categoryId  String
+  createdAt   DateTime      @default(now())
+  updatedAt   DateTime      @updatedAt
+  isPinned    Boolean       @default(false)
+  
+  author      User          @relation(fields: [authorId], references: [id], onDelete: Cascade)
+  category    ForumCategory @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+  replies     ForumReply[]
+}
+
+model ForumReply {
+  id        String    @id @default(cuid())
+  content   String    @db.Text
+  authorId  String
+  postId    String
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+  
+  author    User      @relation(fields: [authorId], references: [id], onDelete: Cascade)
+  post      ForumPost @relation(fields: [postId], references: [id], onDelete: Cascade)
+}
+
+model IdeaBoardPost {
+  id          String   @id @default(cuid())
+  title       String
+  description String   @db.Text
+  tags        String[] // Array of tag strings
+  authorId    String
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  likes       Int      @default(0)
+  
+  author      User     @relation(fields: [authorId], references: [id], onDelete: Cascade)
+}
