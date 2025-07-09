@@ -1,4 +1,3 @@
-
 import { NextAuthOptions } from "next-auth"
 import CredentialsProvider from "next-auth/providers/credentials"
 import { PrismaAdapter } from "@next-auth/prisma-adapter"
@@ -10,6 +9,8 @@ export const authOptions: NextAuthOptions = {
   session: {
     strategy: "jwt",
   },
+  // ADD THIS LINE
+  secret: process.env.NEXTAUTH_SECRET,
   providers: [
     CredentialsProvider({
       name: "credentials",
@@ -65,5 +66,8 @@ export const authOptions: NextAuthOptions = {
   },
   pages: {
     signIn: "/auth/signin",
+    signUp: "/auth/signup",
+    // ADD THIS LINE TO HANDLE LOGIN ERRORS GRACEFULLY
+    error: "/auth/signin", 
   },
 }
