@@ -50,10 +50,10 @@ export async function POST(request: NextRequest) {
       { message: "User created successfully", user: userWithoutPassword },
       { status: 201 }
     )
-  } catch (error) {
-    console.error("Signup error:", error)
+  } catch (e: any) {
+    console.error({e});
     return NextResponse.json(
-      { error: "Internal server error" },
+      { error: "Error creating user.", details: e.message },
       { status: 500 }
     )
   }
