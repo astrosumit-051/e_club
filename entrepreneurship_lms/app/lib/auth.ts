@@ -38,10 +38,17 @@ export const authOptions: NextAuthOptions = {
         }
 
         console.log("Step 2: User found. Comparing passwords.");
+        // New detailed logging
+        console.log(`Plain text password length being compared: ${credentials.password.length}`);
+        console.log(`Hashed password from DB starts with: ${user.password.substring(0, 7)}`);
+
         const isPasswordValid = await bcrypt.compare(
           credentials.password,
           user.password
         )
+        
+        // New detailed logging
+        console.log(`Result of bcrypt.compare: ${isPasswordValid}`);
 
         if (!isPasswordValid) {
           console.log("Authorize failed: Password comparison returned false.");
