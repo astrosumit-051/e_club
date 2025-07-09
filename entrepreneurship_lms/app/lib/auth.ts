@@ -9,7 +9,6 @@ export const authOptions: NextAuthOptions = {
   session: {
     strategy: "jwt",
   },
-  // ADD THIS LINE
   secret: process.env.NEXTAUTH_SECRET,
   providers: [
     CredentialsProvider({
@@ -64,10 +63,9 @@ export const authOptions: NextAuthOptions = {
       return session
     },
   },
+  // THIS IS THE CORRECTED BLOCK
   pages: {
     signIn: "/auth/signin",
-    signUp: "/auth/signup",
-    // ADD THIS LINE TO HANDLE LOGIN ERRORS GRACEFULLY
     error: "/auth/signin", 
   },
 }
