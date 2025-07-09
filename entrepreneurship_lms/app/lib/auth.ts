@@ -18,10 +18,14 @@ export const authOptions: NextAuthOptions = {
         password: { label: "Password", type: "password" }
       },
       async authorize(credentials) {
+        console.log("--- Authorize function called ---");
+
         if (!credentials?.email || !credentials?.password) {
+          console.log("Authorize failed: Missing credentials.");
           return null
         }
 
+        console.log(`Step 1: Finding user with email: ${credentials.email}`);
         const user = await prisma.user.findUnique({
           where: {
             email: credentials.email
@@ -29,18 +33,22 @@ export const authOptions: NextAuthOptions = {
         })
 
         if (!user || !user.password) {
+          console.log("Authorize failed: User not found or user has no password.");
           return null
         }
 
+        console.log("Step 2: User found. Comparing passwords.");
         const isPasswordValid = await bcrypt.compare(
           credentials.password,
           user.password
         )
 
         if (!isPasswordValid) {
+          console.log("Authorize failed: Password comparison returned false.");
           return null
         }
 
+        console.log("Step 3: Password is valid. Login successful.");
         return {
           id: user.id,
           email: user.email,
@@ -63,7 +71,6 @@ export const authOptions: NextAuthOptions = {
       return session
     },
   },
-  // THIS IS THE CORRECTED BLOCK
   pages: {
     signIn: "/auth/signin",
     error: "/auth/signin", 
